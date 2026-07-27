@@ -15,7 +15,7 @@
 						<div class="row">
 							<div class="col-lg-4 col-md-4 col-sm-6 order-sm-1">
 								<div class="initiative-link-wrap">
-									<a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#gluten-friendly',this)">Gluten Friendly</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#vegetarian-friendly',this)">Vegan &amp; Vegetarian</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#halal-friendly',this)">Halal</a>
+										<a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#gluten-friendly',this)">Gluten friendly</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#vegetarian-friendly',this)">Vegan &amp; vegetarian</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#halal-friendly',this)">Halal</a>
 								</div>
 							</div>
 							<div class="col-lg-4 col-md-4 col-sm-6 order-sm-3 offset-md-0 order-md-2">
@@ -34,7 +34,7 @@
 			</div>
 			<div class="col-lg-10 offset-lg-1">
 				<h3 class="mg-md">
-					Gluten/ Vegan &amp; Vegetarian Friendly
+					Gluten / vegan &amp; vegetarian friendly
 				</h3>
 				<p>
 					We believe that when you choose to eat out, everyone should have a variety of options available to choose from.
@@ -42,18 +42,18 @@
 			</div>
 			<div class="col-lg-10 offset-lg-1" id="gluten-friendly">
 				<h3 class="mg-md text-center text-lg-center">
-					Gluten Friendly
+					Gluten friendly
 				</h3>
 				<p>
-					Our best mate is Coeliac, and we always saw how much of a struggle it was for her to find something on the menu she could eat, and how careful she had to be. It didn’t sit right with us, and on top of that, trying to find a good burger place that can easily cater to gluten intolerance is not easy.<br><br>We have ensured all of our products except the buns are Gluten Free, or have no added gluten. And we have sourced an amazing Gluten Free (and Vegan!) bun for those who cannot consume gluten (or are looking for a Vegan option). When these allergies come up in our food truck, we ensure we change gloves, and even toast your GF bun separately, before making your order. Please note these gluten free buns are all individually wrapped, grilled in a gluten free oven and put into a box to ensure its not touching gluten crumbs or mixing with our glutenous buns.<br><br>&nbsp;We add nothing but salt to our meat patties, our batters are made from rice flour, all sauces are gluten free or have no added gluten and we’ve checked every product right down to our pickles (which aren’t always GF due to the type of vinegar used) to make sure you don’t have to worry about eating at Stacked. Please talk to our friendly cashier team if you fall under this category.
+					Our best mate is coeliac, and we always saw how much of a struggle it was for her to find something on the menu she could eat, and how careful she had to be. It didn’t sit right with us, and on top of that, trying to find a good burger place that can easily cater to gluten intolerance is not easy.<br><br>We have ensured all of our products except the buns are gluten free, or have no added gluten. And we have sourced an amazing gluten free (and vegan!) bun for those who cannot consume gluten (or are looking for a vegan option). When these allergies come up in our food truck, we ensure we change gloves, and even toast your GF bun separately, before making your order. Please note these gluten free buns are all individually wrapped, grilled in a gluten free oven and put into a box to ensure its not touching gluten crumbs or mixing with our glutenous buns.<br><br>&nbsp;We add nothing but salt to our meat patties, our batters are made from rice flour, all sauces are gluten free or have no added gluten and we’ve checked every product right down to our pickles (which aren’t always GF due to the type of vinegar used) to make sure you don’t have to worry about eating at Stacked. Please talk to our friendly cashier team if you fall under this category.
 				</p>
 			</div>
 			<div class="col-lg-10 offset-lg-1" id="vegetarian-friendly">
 				<h3 class="mg-md text-center">
-					Vegan &amp; Vegetarian Friendly
+					Vegan &amp; vegetarian friendly
 				</h3>
 				<p>
-					It has been getting a lot easier to find meals that are vegan these days, but we always thought that burger bars did not really excel in this area. We decided to make burgers that we believe hit the nail on the head.<br><br>The sauces we use have been specifically chosen to be Vegan Friendly, as well as our batters, cheese and buns, meaning you can enjoy our food with peace of mind knowing you are getting what you ask for.&nbsp;<br><br>On top of this we believe in being able to have drinks that are Vegan Friendly. We have Vegan options in our bottled, Frappe and Smoothie range, and even our Hot Chocolate is Vegan certified! So you can enjoy a Hot Chocolate, Mocha or even try our new Mint flavoured hot chocolate resting assured it’s Vegan. Milk: We offer Soya, Almond and Oat options to be used instead of our Jersey Girls A2 milk. Please ask what options are Vegan when you are next in store!&nbsp;
+					It has been getting a lot easier to find meals that are vegan these days, but we always thought that burger bars did not really excel in this area. We decided to make burgers that we believe hit the nail on the head.<br><br>The sauces we use have been specifically chosen to be vegan friendly, as well as our batters, cheese and buns, meaning you can enjoy our food with peace of mind knowing you are getting what you ask for.&nbsp;<br><br>On top of this we believe in being able to have drinks that are vegan friendly. We have vegan options in our bottled, frappe and smoothie range, and even our hot chocolate is vegan certified! So you can enjoy a hot chocolate, mocha or even try our new mint flavoured hot chocolate resting assured it’s vegan. Milk: We offer soya, almond and oat options to be used instead of our Jersey Girls A2 milk. Please ask what options are vegan when you are next in store!&nbsp;
 				</p>
 			</div>
 			<div class="col-lg-10 offset-lg-1" id="halal-friendly">
@@ -61,7 +61,7 @@
 					Halal
 				</h3>
 				<p>
-					We’re currently working on making our meat Halal. If you know where we can source free range, NZ Halal chicken, we’d love to find out! <br><br>Our beef is Halal, but it’s unfortunately currently cooked on the same grill as our bacon! We’re working towards a solution for this, and we hope you’ll hang in there until we can prepare you a delicious, Halal friendly meat burger.&nbsp;
+					Our meat is sourced from a local certified halal supplier. We do have pork, however this is cooked in a separate frying pan.
 				</p>
 			</div>
 			<div class="col-lg-10 offset-lg-1" id="karama-drinks">

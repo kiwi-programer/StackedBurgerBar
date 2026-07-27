@@ -8,4 +8,8 @@ Another passion for us was to support local as much as we could, and you’ll fi
 
 Our third goal was to be environmentally sustainable. From Fairtrade organic coffee to eco-friendly packaging, we’ve worked hard to care for the environment as we make you delicious food.
 
-- Joel and Mel
+<div class="story-image-block">
+  <img src="../public/images/Mel%20%26%20Joel%202.JPG" alt="Mel and Joel" class="story-image" style="width: 150px; height: auto;object-fit: cover;"
+}">
+  <p class="story-image-caption">Mel and Joel</p>
+</div>
