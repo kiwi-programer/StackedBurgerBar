@@ -20,7 +20,7 @@
 							</div>
 							<div class="col-lg-4 col-md-4 col-sm-6 order-sm-3 offset-md-0 order-md-2">
 								<div class="initiative-link-wrap">
-									<a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#karama-drinks',this)">Karma Drinks</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#kokako-coffee',this)">Kokako Coffee</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#antipodes',this)">Antipodes</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#petes-natural',this)">Pete’s Natural</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#jersey-girl-organics',this)">Jersey Girl Organics</a>
+										<a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#karama-drinks',this)">Karma Drinks</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#kokako-coffee',this)">Kokako Coffee</a>
 								</div>
 							</div>
 							<div class="col-lg-4 col-md-4 col-sm-6 order-sm-2 order-md-3">
@@ -91,30 +91,6 @@
 						</p>
 					</li>
 				</ul>
-			</div>
-			<div class="col-lg-10 offset-lg-1" id="antipodes">
-				<h3 class="mg-md">
-					Antipodes
-				</h3>
-				<p>
-					Antipodes is a New Zealand owned company that believes in the purity of water while looking after the environment. They ensure no sterilization, no additives, no industrial cleansing and no processing happens in their water.<br><br>Antipodes became the world’s first and is still the only mineral water to be carbon zero certified. From its source, to any dining table in the world their water leaves behind absolutely no carbon footprint.<br><br>Learn more abour <a href="https://au.antipodes.co.nz/our-water" target="_blank">Antipodes Water</a>
-				</p>
-			</div>
-			<div class="col-lg-10 offset-lg-1" id="petes-natural">
-				<h3 class="mg-md">
-					Pete’s Natural
-				</h3>
-				<p>
-					They, like us, like to support local growers! The team at Pete’s Natural believe that Fair Trade begins at home. Everything they make is from and made in New Zealand, with only natural ingredients. No Additives, no concentrates from overseas, no preservatives or artificial flavours, meaning no hidden nasties!<br> They care about sustainability and the environment just us much as us. Along with NZ grown fruits and local ingredients our sodas are wrapped up in NZ made recycled and recyclable glass bottles sourced from O-I GLASS in Auckland. All their sodas are gluten free, vegetarian and vegan friendly<br><br>Learn more about <a href="https://petesnatural.co.nz/about-us/" target="_blank">Pete’s Natural</a>
-				</p>
-			</div>
-			<div class="col-lg-10 offset-lg-1" id="jersey-girl-organics">
-				<h3 class="mg-md">
-					Jersey Girl Organics
-				</h3>
-				<p>
-					Jersery Girl Organics is a local family owned farm in Matamata, New Zealand delivering creamy, full-bodied A2 milk that is naturally high in cream and fat.<br><br> They do all their own processing and bottling on-site, and they do not homogenise milk. By making this choice, they ensure that the milk you receive is the same milk they get from their herd. <br><br>The process of homogenisation involves breaking up the fat droplets to smaller sizes so that they do not separate from the rest of the milk. This results in a more 'uniform' milk. Because Jersey Girl only pasteurise, their milk body and cream separate, leaving the cream to rise to the top. This is completely natural and, they believe (but we’re convinced!), the only way to enjoy milk.<br><br>Jersey Girl Organics milk is audited to strict BioGro NZ organic standards, so you can be sure that the milk is free of antibiotic, herbicide and pesticide residues.<br><br>Learn more about <a href="https://www.jerseygirlorganics.co.nz/our-milk" target="_blank">Jersey Girl Organics</a>
-				</p>
 			</div>
 			<div class="col-lg-10 offset-lg-1" id="bon-accord">
 				<h3 class="mg-md">
