@@ -1,0 +1,85 @@
+<div class="bloc none l-bloc" id="content">
+	<div class="container bloc-md-lg bloc-md-md bloc-sm-sm bloc-sm">
+		<div class="row">
+			<div class="col-lg-12 offset-lg-0">
+				<div class="section-heading">
+					<h2 class="mg-md text-lg-center">
+						Your next event here
+					</h2>
+					<p>
+						Parties, Weddings, Funerals and more...
+					</p>
+				</div>
+			</div>
+			<div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 col object-hidden">
+				<div class="venue-image-wrap">
+					<div class="venue-image-item">
+						<img src="/public/images/insta-1.jpg" class="img-fluid mx-auto d-block" alt="Stacked burger bar burger close-up">
+					</div>
+					<div class="venue-image-item">
+						<img src="/public/images/insta-2.jpg" class="img-fluid mx-auto d-block" alt="Stacked burger bar meal presentation">
+					</div>
+					<div class="venue-image-item">
+						<img src="/public/images/insta-3.jpg" class="img-fluid mx-auto d-block" alt="Fresh fries and burger platter">
+					</div>
+					<div class="venue-image-item">
+						<img src="/public/images/venue-foodtruck.jpg" class="img-fluid mx-auto d-block" alt="Food truck venue setup">
+					</div>
+					<div class="venue-image-item">
+						<img src="/public/images/hero-burger.jpg" class="img-fluid mx-auto d-block" alt="Stacked burger bar hero image">
+					</div>
+					<div class="venue-image-item">
+						<img src="/public/images/insta-6.jpg" class="img-fluid mx-auto d-block" alt="Smoky grilled burger">
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-10 offset-lg-1">
+				<h3 class="mg-md">
+					Rooms Available
+				</h3>
+				<div class="row">
+					<div class="col-sm-10 offset-sm-1 offset-md-0 col-md-6">
+						<ul class="list-unstyled venue-list">
+							<li>
+								<h4 class="mg-md m-0">
+									Auditorium <span class="people">(seating 135)</span>
+								</h4>
+								<p>
+									The auditorium is an ideal space for corporate events, intimate weddings/funerals or charity event nights. This room has the ability to be closed off from the café or open out onto the café area.
+								</p>
+							</li>
+							<li>
+								<h4 class="mg-md m-0">
+									Hall <span class="people">(seating 50)</span>
+								</h4>
+								<p>
+									This is a great room to celebrate birthdays, anniversaries or baby showers. With the ability to hire this room and the Deck for an overflow space it makes this a popular hire space.
+								</p>
+							</li>
+						</ul>
+					</div>
+					<div class="col-sm-10 offset-sm-1 offset-md-0 col-md-6">
+						<ul class="list-unstyled venue-list">
+							<li>
+								<h4 class="mg-md m-0">
+									Café &amp; Foyer&nbsp;<span class="people">(seating 20)</span>
+								</h4>
+								<p>
+									For smaller corporate events, baby showers or as an addition to other areas, this is a great area for hire. Barista’s available to hire to make coffees (or anything from our drinks menu) and/or serve food from our café.
+								</p>
+							</li>
+							<li>
+								<h4 class="mg-md m-0">
+									Covered Deck <span class="people">(seating 80)</span>
+								</h4>
+								<p>
+									A great space all year around, with shaded canopy &amp; retractable wind shields. With the ability to have the space open or closed to the elements it allows for your event to go ahead no matter the weather.
+								</p>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,94 @@
+<div class="bloc footer-bloc d-bloc mt-auto" id="footer">
+	<div class="container bloc-no-padding">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="footer-inner">
+					<div class="footer-item">
+						<h4 class="mg-md">
+							About
+						</h4><a href="https://stackedburgerbar.loke.app/22010/menu" class="a-btn" target="_blank">Our Menu</a><a href="./our-story/" class="a-btn">Our Story</a><a href="./initiatives-and-partners/" class="a-btn">Initiatives &amp; Partners</a><a href="./events/" class="a-btn">Events</a><a href="./venue-hire/" class="a-btn">Venue Hire</a><a href="./contact/" class="a-btn">Contact us</a>
+					</div>
+					<div class="footer-item">
+						<h4 class="mg-md">
+							Open Hours
+						</h4>
+						<div>
+							<dl class="open-hours">
+	<dt>Tuesday &amp; Wednesday</dt>
+	<dd>8am - 8pm</dd>
+	<dt>Thursday</dt>
+	<dd>8am - 8:30pm</dd>
+	<dt>Friday</dt>
+	<dd>8am - 9pm</dd>
+	<dt>Saturday</dt>
+	<dd>11:30am - 9pm</dd>
+	<dt>Sunday</dt>
+	<dd>11:30am - 7:30pm</dd>
+	<dt>Monday</dt>
+	<dd>Closed</dd>
+</dl>
+							
+						</div>
+					</div>
+					<div class="footer-item">
+							<h4 class="mg-md">
+								Find us
+							</h4>
+							<div class="footer-social-icons">
+								<div>
+									<a href="https://www.facebook.com/StackedBurgerBarNZ" target="_blank">
+<span class="fa-stack">
+  <i class="fa fa-circle fa-stack-2x icon-bg"></i>
+  <i class="fab fa-facebook-f fa-stack-1x icon"></i>
+</span>
+</a>
+<a href="https://www.instagram.com/stackedburgerbarnz" target="_blank">
+<span class="fa-stack" onclick="if (!window.__cfRLUnblockHandlers) return false; redirectInstagram();">
+  <i class="fa fa-circle fa-stack-2x icon-bg"></i>
+  <i class="fab fa-instagram fa-stack-1x icon"></i>
+</span>
+</a>
+									
+								</div>
+							</div>
+							<p class="text-lg-start text-md-start text-sm-start text-center">
+									119 Richardson Road<br>Mount Albert, 1025,<br>Auckland.
+								</p>
+							<div class="footer-map-wrap" onclick="if (!window.__cfRLUnblockHandlers) return false; redirectMap();">
+									<span class="ion ion-map footer-map"></span>
+								</div>
+						</div>
+				</div>
+			</div>
+			<div class="col">
+						<div class="sub-menu">
+							<p>
+								<a class="object-hidden" href="./privacy/">Privacy</a>
+							</p>
+						</div>
+						<div><div id="easy-copyright" class="easy-copyright" data-extra-text="true" data-display-copyright="true" data-year-current="true" data-start-year="2021" data-display-current="true" data-custom-class="copyright">
+<div class="easy-copyright-link">
+<p class="easy-copyright-text copyright">
+<span class="easy-copyright-copy">©</span>
+<span class="easy-copyright-text-copyright">Copyright</span>
+<span id="easy-copyright-year" class="easy-copyright-year">2021  -  </span> 
+<span id="easy-copyright-current" class="easy-copyright-current">2026</span>
+<span class="easy-copyright-company">Stacked Burger Bar</span>
+<span class="easy-copyright-break"><br></span>
+<span class="easy-copyright-extra">Made with <span class="fa fa-heart" style="color: #C91D04;"></span> by  <a href="https://betterthought.design" target="_blank">Better Thought Design</a></span>
+</p></div>
+</div>
+						</div>
+					</div>
+			<div class="col-lg-12">
+							<div><div id="page-transition-anim" class="page-transition page-trans-fade" style="background-color: rgb(255, 255, 255); animation-duration: 0.7s; animation-delay: 0.7s;">
+</div>
+							</div>
+							<div><div id="easy-burger" class="easy-burger-settings" default-bs="no" custom="no" fa-icon="fas fa-bars" svg="no" icon-size="1.4" icon-transition="0s" icon-color="#000000" icon-hover="#C900C0" background="no" icon-color-bg="unset" icon-hover-bg="unset" padding-top="0em" padding-bottom="0em" padding-left="0em" padding-right="0em" radius-top-left="0em" radius-top-right="0em" radius-bottom-left="0em" radius-bottom-right="0em" border-width="0px" border-color="unset" border-color-hover="unset" shadow="no" shadow-box="unset" shadow-box-hover="unset" text-display="yes" text="menu" text-position="after" font="no" font-family="&quot;NexaBold&quot;" font-weight="" text-color-options="hidden" text-color="unset" text-color-hover="unset" text-size="1rem" text-base="0em" letter-spacing="0.1em" text-spacing="0.3em" text-spacing-direction="left" close-custom="no" close-fa-icon="fas fa-times" close-icon-thickness="1px" close-icon-color="#C900C0" close-icon-hover="#C900C0" close-size="1.4" nav-offset="4.00rem"></div>
+								</div>
+							<div><div id="flexy-foot" class="flexy-foot-control" data-footer="footer"></div>
+									</div>
+						</div>
+		</div>
+	</div>
+</div>

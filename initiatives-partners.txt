@@ -1,0 +1,206 @@
+<div class="bloc l-bloc" id="content">
+	<div class="container bloc-md-lg bloc-md-md bloc-sm-sm bloc-sm">
+		<div class="row initiative-wrapper">
+			<div class="col-12 col-lg-10 offset-lg-1">
+				<div class="section-heading">
+					<h2 class="mg-md text-center">
+						New Zealand / Buying Local
+					</h2>
+				</div>
+				<p>
+					Wherever we can we strive to ensure everything we buy comes from New Zealand. It is so important to us that when you buy from us, you’re not only supporting the local Burger Bar, but you are supporting local growers and other businesses. This knock-on effect we believe will help NZ’s economy and help get as many kiwis employed as possible.<br><br>We believe in NZ product so much we don’t do anything to change it, meaning when you eat our chicken you can know that it is 100% free range chicken tenderloins dipped in our batter. Our meat patties are 100% beef with a pinch of salt because, let’s be honest, NZ product is amazing just the way it is.&nbsp;
+				</p>
+				<div class="row">
+					<div class="offset-lg-1 col-lg-10 mb-4 col-md-12 col-sm-12">
+						<div class="row">
+							<div class="col-lg-4 col-md-4 col-sm-6 order-sm-1">
+								<div class="initiative-link-wrap">
+									<a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#gluten-friendly',this)">Gluten Friendly</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#vegetarian-friendly',this)">Vegan &amp; Vegetarian</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#halal-friendly',this)">Halal</a>
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-6 order-sm-3 offset-md-0 order-md-2">
+								<div class="initiative-link-wrap">
+									<a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#karama-drinks',this)">Karma Drinks</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#kokako-coffee',this)">Kokako Coffee</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#antipodes',this)">Antipodes</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#petes-natural',this)">Pete’s Natural</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#jersey-girl-organics',this)">Jersey Girl Organics</a>
+								</div>
+							</div>
+							<div class="col-lg-4 col-md-4 col-sm-6 order-sm-2 order-md-3">
+								<div class="initiative-link-wrap">
+									<a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#composting',this)">Composting &amp; Recycling</a><a href="#" class="a-btn" data-scroll-speed="1000" onclick="if (!window.__cfRLUnblockHandlers) return false; scrollToTarget('#deliver-easy',this)">Deliver Easy</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-10 offset-lg-1">
+				<h3 class="mg-md">
+					Gluten/ Vegan &amp; Vegetarian Friendly
+				</h3>
+				<p>
+					We believe that when you choose to eat out, everyone should have a variety of options available to choose from.
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="gluten-friendly">
+				<h3 class="mg-md text-center text-lg-center">
+					Gluten Friendly
+				</h3>
+				<p>
+					Our best mate is Coeliac, and we always saw how much of a struggle it was for her to find something on the menu she could eat, and how careful she had to be. It didn’t sit right with us, and on top of that, trying to find a good burger place that can easily cater to gluten intolerance is not easy.<br><br>We have ensured all of our products except the buns are Gluten Free, or have no added gluten. And we have sourced an amazing Gluten Free (and Vegan!) bun for those who cannot consume gluten (or are looking for a Vegan option). When these allergies come up in our food truck, we ensure we change gloves, and even toast your GF bun separately, before making your order. Please note these gluten free buns are all individually wrapped, grilled in a gluten free oven and put into a box to ensure its not touching gluten crumbs or mixing with our glutenous buns.<br><br>&nbsp;We add nothing but salt to our meat patties, our batters are made from rice flour, all sauces are gluten free or have no added gluten and we’ve checked every product right down to our pickles (which aren’t always GF due to the type of vinegar used) to make sure you don’t have to worry about eating at Stacked. Please talk to our friendly cashier team if you fall under this category.
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="vegetarian-friendly">
+				<h3 class="mg-md text-center">
+					Vegan &amp; Vegetarian Friendly
+				</h3>
+				<p>
+					It has been getting a lot easier to find meals that are vegan these days, but we always thought that burger bars did not really excel in this area. We decided to make burgers that we believe hit the nail on the head.<br><br>The sauces we use have been specifically chosen to be Vegan Friendly, as well as our batters, cheese and buns, meaning you can enjoy our food with peace of mind knowing you are getting what you ask for.&nbsp;<br><br>On top of this we believe in being able to have drinks that are Vegan Friendly. We have Vegan options in our bottled, Frappe and Smoothie range, and even our Hot Chocolate is Vegan certified! So you can enjoy a Hot Chocolate, Mocha or even try our new Mint flavoured hot chocolate resting assured it’s Vegan. Milk: We offer Soya, Almond and Oat options to be used instead of our Jersey Girls A2 milk. Please ask what options are Vegan when you are next in store!&nbsp;
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="halal-friendly">
+				<h3 class="mg-md">
+					Halal
+				</h3>
+				<p>
+					We’re currently working on making our meat Halal. If you know where we can source free range, NZ Halal chicken, we’d love to find out! <br><br>Our beef is Halal, but it’s unfortunately currently cooked on the same grill as our bacon! We’re working towards a solution for this, and we hope you’ll hang in there until we can prepare you a delicious, Halal friendly meat burger.&nbsp;
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="karama-drinks">
+				<h3 class="mg-md">
+					Karma Drinks
+				</h3>
+				<p class="text-start">
+					When we searched for bottled product to sell, we knew we found a company to back when we came across Karma Drinks. They stand for everything we believe in. They believe their drinks should not only taste good, but be good to the planet, the people who grow their ingredients and you!<br><br>To hold them to account to their mission to be the world’s most ethical soft drink they established the Karma Foundation. 1% of revenue from every Karma Drink goes to their Cola nut growers and their communities in Sierra Leone.<br><br>Not only this, Karma want the best for the environment by standing against plastic, something we strongly believe in. They also believe in organic, ensuring less toxins and other nasties can end up in your drink. Every sip you take you can sip assured you are drinking quality.<br><br>Learn more about the <a href="https://shop.karmacola.co.nz/pages/the-karma-foundation" target="_blank">Karma Foundation</a>
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="kokako-coffee">
+				<h3 class="mg-md">
+					Kokako Coffee
+				</h3>
+				<p>
+					We source our coffee from our local roaster up in Mt Eden. We love what they stand for and have partnered with them for several reasons:&nbsp;<br>
+				</p>
+				<ul>
+					<li>
+						<p>
+							<strong>Coffee Cups &amp; Lids:</strong> These are compostable which is so important to us. Most coffee cups that say biodegradable or recycling don’t actually make their way to any sort of recycling facility, instead ending up in the landfill. Because these are compostable, we are able to commercially compost them through Green Gorilla to ensure we give back positively to the environment.
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>Mahana Coffee:</strong> Kokako’s Mahana coffee is Fair Trade &amp; Biogro Organic certified, and has a full bodied chocolatey flavour. The coffee beans are sourced from Fairtrade Organic cooperatives in Ethiopia, Sumatra &amp; the Democratic Republic of Congo. Honestly, we haven’t tasted better coffee than this!
+						</p>
+					</li>
+				</ul>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="antipodes">
+				<h3 class="mg-md">
+					Antipodes
+				</h3>
+				<p>
+					Antipodes is a New Zealand owned company that believes in the purity of water while looking after the environment. They ensure no sterilization, no additives, no industrial cleansing and no processing happens in their water.<br><br>Antipodes became the world’s first and is still the only mineral water to be carbon zero certified. From its source, to any dining table in the world their water leaves behind absolutely no carbon footprint.<br><br>Learn more abour <a href="https://au.antipodes.co.nz/our-water" target="_blank">Antipodes Water</a>
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="petes-natural">
+				<h3 class="mg-md">
+					Pete’s Natural
+				</h3>
+				<p>
+					They, like us, like to support local growers! The team at Pete’s Natural believe that Fair Trade begins at home. Everything they make is from and made in New Zealand, with only natural ingredients. No Additives, no concentrates from overseas, no preservatives or artificial flavours, meaning no hidden nasties!<br> They care about sustainability and the environment just us much as us. Along with NZ grown fruits and local ingredients our sodas are wrapped up in NZ made recycled and recyclable glass bottles sourced from O-I GLASS in Auckland. All their sodas are gluten free, vegetarian and vegan friendly<br><br>Learn more about <a href="https://petesnatural.co.nz/about-us/" target="_blank">Pete’s Natural</a>
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="jersey-girl-organics">
+				<h3 class="mg-md">
+					Jersey Girl Organics
+				</h3>
+				<p>
+					Jersery Girl Organics is a local family owned farm in Matamata, New Zealand delivering creamy, full-bodied A2 milk that is naturally high in cream and fat.<br><br> They do all their own processing and bottling on-site, and they do not homogenise milk. By making this choice, they ensure that the milk you receive is the same milk they get from their herd. <br><br>The process of homogenisation involves breaking up the fat droplets to smaller sizes so that they do not separate from the rest of the milk. This results in a more 'uniform' milk. Because Jersey Girl only pasteurise, their milk body and cream separate, leaving the cream to rise to the top. This is completely natural and, they believe (but we’re convinced!), the only way to enjoy milk.<br><br>Jersey Girl Organics milk is audited to strict BioGro NZ organic standards, so you can be sure that the milk is free of antibiotic, herbicide and pesticide residues.<br><br>Learn more about <a href="https://www.jerseygirlorganics.co.nz/our-milk" target="_blank">Jersey Girl Organics</a>
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="bon-accord">
+				<h3 class="mg-md">
+					Bon Accord
+				</h3>
+				<p>
+					We have partnered with Bon Accord to bring you our beautiful Frappes, Real Fruit Pulp smoothies, Iced Tea and other hot beverages.&nbsp;<br><br>We are proud to be partnered with Bon Accord. One of our favourite things we stock is their Bon Accord Fairtrade Vegan Beglian Style Hot Chocolate. This is designed for any hot chocolate lover and is hands down what we believe to be the best hot chocolate out there on the market. It delivers a rich, dark hot chocolate experience, and you can enjoy with peace of mind knowing it’s benefiting families at the origin. &nbsp;
+				</p>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="composting">
+				<h3 class="mg-md">
+					Green Gorilla Composting and Recycling Program
+				</h3>
+				<div class="row">
+					<div class="d-flex col-lg-12">
+						<p>
+							It was important to us to be as environmentally friendly as we possibly could.<br> <br>Our food packaging is all recyclable and/or biodegradable/compostable, and to help us make sure our product ends up in a better place we have partnered with Green Gorilla. &nbsp;<br>
+						</p>
+					</div>
+					<div class="offset-lg-0 d-flex col-lg-6 py-3 col-md-6">
+						<div class="video-embed">
+							<iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/IShaKDaJUvQ?rel=0" title="Green Gorilla video" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
+							</iframe>
+						</div>
+					</div>
+					<div class="offset-lg-0 d-flex col-lg-6 py-3 col-md-6">
+						<div class="ratio ratio-16x9">
+							<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/269128324?h=4c22377fbe" frameborder="0" allowfullscreen="">
+							</iframe>
+						</div>
+					</div>
+				</div>
+				<h5 class="mg-md mb-0">
+					Green Gorilla
+				</h5>
+				<ul>
+					<li>
+						<p>
+							Are the only comprehensive Waste Processing Facility in New Zealand
+						</p>
+					</li>
+					<li>
+						<p>
+							Diverts over 75,000 tonnes of waste per annum away from Auckland's landfills
+						</p>
+					</li>
+				</ul>
+				<h5 class="mg-md mb-0">
+					Recycling Program
+				</h5>
+				<ul>
+					<li>
+						<p>
+							We choose specifically to only have glass bottled products, which we recycle through Green Gorilla along with the rest of our recycling.
+						</p>
+					</li>
+				</ul>
+				<h5 class="mg-md mb-0">
+					Compostable Program
+				</h5>
+				<ul>
+					<li>
+						<p>
+							All of our packaging from boxes, bags, wraps, coffee grounds and coffee cups to straws and stickers is compostable. (The only thing we’ve found isn’t compostable is our receipt paper! We are currently looking into alternatives.)
+						</p>
+					</li>
+					<li>
+						<p>
+							Onsite we ensure all food waste/scraps and your burger packaging (should you eat your meal onsite) is sent to Green Gorilla who ensure it is commercially composted, helping reduce methane gas and diverting rubbish from the landfill.
+						</p>
+					</li>
+				</ul>
+			</div>
+			<div class="col-lg-10 offset-lg-1" id="deliver-easy">
+				<h3 class="mg-md mb-0">
+					Deliver Easy
+				</h3>
+				<p>
+					Deliver Easy is a New Zealand owned delivery company that came into Auckland in August 2020. We have joined forces because we love how they treat their drivers! They ensure their drivers get (at minimum) the living wage. They’re a New Zealand owned and operated business, so when you order a Stacked Burger Bar delivery through them, you’re helping support our NZ economy – it’s a no brainer!&nbsp;
+				</p>
+				<div class="text-lg-center">
+					<div class="text-center">
+						<a href="https://www.delivereasy.co.nz/stacked-burger-bar-auckland-delivery " class="btn btn-d btn-lg btn-action my-3" target="_blank">Order Your Delivery</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

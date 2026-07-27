@@ -1,0 +1,10 @@
+<div class="coming-soon-display">
+  <div class="coming-soon-badge">Coming soon</div>
+  <h2>Something delicious is heading your way</h2>
+  <p>We’re putting the final touches on our next pop-up, food truck stop, and special event schedule. Watch this space for fresh drops, surprise guests, and a few extra burger thrills.</p>
+  <div class="coming-soon-grid">
+    <div class="coming-soon-pill">Food truck Fridays</div>
+    <div class="coming-soon-pill">Private bookings</div>
+    <div class="coming-soon-pill">Live event pop-ups</div>
+  </div>
+</div>

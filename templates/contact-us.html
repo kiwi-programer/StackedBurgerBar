@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Get in touch with Stacked Burger Bar for bookings, venue enquiries, or general questions.">
+  <meta property="og:title" content="Contact Us — Stacked Burger Bar">
+  <meta property="og:description" content="Contact Stacked Burger Bar for bookings, venue enquiries, and general questions.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="/public/favicon.ico" type="image/x-icon">
+  <title>Contact Us — Stacked Burger Bar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+<body>
+<header>
+  <nav>
+    <a href="/templates/index.html" class="logo">
+      <span class="name">STACKED</span>
+      <span class="sub">BURGER BAR</span>
+    </a>
+    <div class="nav-right">
+      <div class="nav-links">
+        <a href="/templates/index.html">Home</a>
+        <a href="/templates/our-story.html">Our Story</a>
+        <a href="/templates/initiatives-and-partners.html">Initiatives &amp; Partners</a>
+        <a href="/templates/events.html">Events</a>
+        <a href="/templates/venue-hire.html">Venue Hire</a>
+        <a href="/templates/contact-us.html">Contact Us</a>
+      </div>
+      <a class="btn-order" href="/templates/index.html#order">ORDER NOW</a>
+      <button class="hamburger" id="menuOpen" aria-label="Open menu"><span></span><span></span><span></span></button>
+    </div>
+  </nav>
+</header>
+<div class="menu-overlay" id="menuOverlay">
+  <button class="close" id="menuClose" aria-label="Close menu">&times;</button>
+  <ul>
+    <li><a href="/templates/index.html">Home</a></li>
+    <li><a href="/templates/our-story.html">Our Story</a></li>
+    <li><a href="/templates/initiatives-and-partners.html">Initiatives &amp; Partners</a></li>
+    <li><a href="/templates/events.html">Events</a></li>
+    <li><a href="/templates/venue-hire.html">Venue Hire</a></li>
+    <li><a href="/templates/contact-us.html">Contact Us</a></li>
+  </ul>
+</div>
+<section class="page-hero">
+  <div class="hero-inner">
+    <div class="eyebrow">we’d love to hear from you</div>
+    <h1>Contact Us</h1>
+  </div>
+</section>
+<section class="page-shell">
+  <div class="page-card">
+    <h2>Get in touch</h2>
+    <p>For orders, venue inquiries, or event bookings, reach out and we’ll help with the details.</p>
+    <form class="contact-form" action="mailto:hello@stackedburgerbar.co.nz" method="post" enctype="text/plain">
+      <div class="field">
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" placeholder="Your name" required>
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" placeholder="you@example.com" required>
+      </div>
+      <div class="field">
+        <label for="subject">Subject</label>
+        <input id="subject" name="subject" type="text" placeholder="What would you like to discuss?" required>
+      </div>
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Tell us about your event, enquiry, or order request." required></textarea>
+      </div>
+      <button type="submit">Send message</button>
+    </form>
+    <div class="page-list">
+      <div class="item"><strong>Visit</strong>119 Richardson Road, Mount Albert, Auckland</div>
+      <div class="item"><strong>Call</strong>Available during opening hours for menu and booking questions.</div>
+      <div class="item"><strong>Follow</strong>Stay updated on the latest events and food truck stops.</div>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="footer-grid">
+    <div class="footer-block">
+      <h4>About</h4>
+      <div class="footer-links">
+        <a href="/templates/index.html#menu">Our Menu</a>
+        <a href="/templates/our-story.html">Our Story</a>
+        <a href="/templates/initiatives-and-partners.html">Initiatives &amp; Partners</a>
+        <a href="/templates/events.html">Events</a>
+        <a href="/templates/venue-hire.html">Venue Hire</a>
+        <a href="/templates/contact-us.html">Contact Us</a>
+      </div>
+    </div>
+    <div class="footer-block">
+      <h4>Open Hours</h4>
+      <dl class="footer-hours">
+        <dt>Tuesday &amp; Wednesday</dt><dd>8am - 8pm</dd>
+        <dt>Thursday</dt><dd>8am - 8:30pm</dd>
+        <dt>Friday</dt><dd>8am - 9pm</dd>
+        <dt>Saturday</dt><dd>11:30am - 9pm</dd>
+        <dt>Sunday</dt><dd>11:30am - 7:30pm</dd>
+        <dt>Monday</dt><dd>Closed</dd>
+      </dl>
+    </div>
+    <div class="footer-block">
+      <h4>Find Us</h4>
+      <div class="footer-socials">
+        <a href="https://www.facebook.com/StackedBurgerBarNZ" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M15 8.5h2V5.5h-2c-2.2 0-3.5 1.4-3.5 3.7V11H9v3h2.5v6h3v-6H17l.5-3h-3V9.3c0-.6.3-.8.8-.8Z"/></svg></a>
+        <a href="https://www.instagram.com/stackedburgerbarnz" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="5"/><circle cx="12" cy="12" r="3.5"/><circle cx="16.6" cy="7.4" r="1" fill="currentColor"/></svg></a>
+      </div>
+      <p>119 Richardson Road<br>Mount Albert, 1025,<br>Auckland.</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© Copyright 2021 – 2026 Stacked Burger Bar</span>
+    <span>Made with care in Auckland</span>
+  </div>
+</footer>
+<script>
+  const openBtn = document.getElementById('menuOpen');
+  const closeBtn = document.getElementById('menuClose');
+  const overlay = document.getElementById('menuOverlay');
+  openBtn.addEventListener('click', ()=> overlay.classList.add('open'));
+  closeBtn.addEventListener('click', ()=> overlay.classList.remove('open'));
+  overlay.querySelectorAll('a').forEach(a=>a.addEventListener('click', ()=> overlay.classList.remove('open')));
+</script>
+</body>
+</html>
