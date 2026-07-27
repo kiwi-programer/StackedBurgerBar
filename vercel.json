@@ -1,13 +1,9 @@
 {
   "version": 2,
   "name": "stacked-burger-bar",
-  "builds": [
-    { "src": "templates/**", "use": "@vercel/static" },
-    { "src": "styles/**", "use": "@vercel/static" },
-    { "src": "public/**", "use": "@vercel/static" }
-  ],
   "routes": [
-    { "src": "/", "dest": "/templates/index.html" },
+    { "src": "/", "dest": "/index.html" },
+    { "src": "/(.*\\.(?:txt|html|css|js|png|jpg|jpeg|svg|gif|webp|ico))", "dest": "/$1" },
     { "src": "/templates/(.*)", "dest": "/templates/$1" },
     { "src": "/styles/(.*)", "dest": "/styles/$1" },
     { "src": "/public/(.*)", "dest": "/public/$1" }
