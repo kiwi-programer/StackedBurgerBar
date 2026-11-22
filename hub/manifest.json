@@ -1,0 +1,3344 @@
+{
+  "schemaVersion": 1,
+  "registryId": "stacked-burger-bar@1.0.0",
+  "projectSlug": "stacked-burger-bar",
+  "adapter": "html-template",
+  "repository": "https://github.com/kiwi-programer/StackedBurgerBar",
+  "websiteUrl": "https://stacked-burger-bar.vercel.app",
+  "sourceCommit": "cc3798b2c3253a72e4297bc0a974016ca8512495",
+  "root": {
+    "fields": {}
+  },
+  "assets": [],
+  "components": {
+    "TemplateHome": {
+      "label": "Stacked Burger Bar \u2014 Mt Albert, Auckland",
+      "fields": {
+        "values": {
+          "type": "object",
+          "objectFields": {
+            "region0": {
+              "type": "text",
+              "label": "meta content Stacked Burger Bar serves fresh burgers, glut"
+            },
+            "region1": {
+              "type": "text",
+              "label": "meta content Stacked Burger Bar \u2014 Mt Albert, Auckland"
+            },
+            "region2": {
+              "type": "text",
+              "label": "meta content Fresh burgers, local ingredients, and communi"
+            },
+            "region3": {
+              "type": "text",
+              "label": "title Stacked Burger Bar \u2014 Mt Albert, Auckland"
+            },
+            "region4": {
+              "type": "text",
+              "label": "a href #top",
+              "format": "url"
+            },
+            "region5": {
+              "type": "text",
+              "label": "span STACKED"
+            },
+            "region6": {
+              "type": "text",
+              "label": "span BURGER BAR"
+            },
+            "region7": {
+              "type": "text",
+              "label": "a href #top",
+              "format": "url"
+            },
+            "region8": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region9": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region10": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region11": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region12": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region13": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region14": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region15": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region16": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region17": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region18": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region19": {
+              "type": "text",
+              "label": "a href https://www.delivereasy.co.nz/stacked-burger-",
+              "format": "url"
+            },
+            "region20": {
+              "type": "text",
+              "label": "a Order now"
+            },
+            "region21": {
+              "type": "text",
+              "label": "a href #top",
+              "format": "url"
+            },
+            "region22": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region23": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region24": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region25": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region26": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region27": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region28": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region29": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region30": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region31": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region32": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region33": {
+              "type": "text",
+              "label": "h1 STACKED"
+            },
+            "region34": {
+              "type": "text",
+              "label": "span with goodness"
+            },
+            "region35": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region36": {
+              "type": "text",
+              "label": "img src ../public/svg/Stacked-pickup-trailer.svg",
+              "format": "asset"
+            },
+            "region37": {
+              "type": "text",
+              "label": "img alt Pickup icon"
+            },
+            "region38": {
+              "type": "text",
+              "label": "span PICKUP"
+            },
+            "region39": {
+              "type": "text",
+              "label": "a href https://www.delivereasy.co.nz/stacked-burger-",
+              "format": "url"
+            },
+            "region40": {
+              "type": "text",
+              "label": "img src ../public/svg/Stacked-delivery-scooter.svg",
+              "format": "asset"
+            },
+            "region41": {
+              "type": "text",
+              "label": "img alt Delivery icon"
+            },
+            "region42": {
+              "type": "text",
+              "label": "span DELIVERY"
+            },
+            "region43": {
+              "type": "text",
+              "label": "h2 Something for everyone"
+            },
+            "region44": {
+              "type": "text",
+              "label": "p Gluten, vegan & vegetarian friendly."
+            },
+            "region45": {
+              "type": "text",
+              "label": "a href #order",
+              "format": "url"
+            },
+            "region46": {
+              "type": "text",
+              "label": "a Our menu"
+            },
+            "region47": {
+              "type": "text",
+              "label": "h2 Follow us"
+            },
+            "region48": {
+              "type": "text",
+              "label": "p #Stackedburgerbarnz"
+            },
+            "region49": {
+              "type": "text",
+              "label": "img src ../public/images/insta-1.jpg",
+              "format": "asset"
+            },
+            "region50": {
+              "type": "text",
+              "label": "img alt Stacked burger bar burger close-up"
+            },
+            "region51": {
+              "type": "text",
+              "label": "img src ../public/images/insta-2.jpg",
+              "format": "asset"
+            },
+            "region52": {
+              "type": "text",
+              "label": "img alt Stacked burger bar meal presentation"
+            },
+            "region53": {
+              "type": "text",
+              "label": "img src ../public/images/insta-3.jpg",
+              "format": "asset"
+            },
+            "region54": {
+              "type": "text",
+              "label": "img alt Fresh fries and burger platter"
+            },
+            "region55": {
+              "type": "text",
+              "label": "img src ../public/images/insta-4.jpg",
+              "format": "asset"
+            },
+            "region56": {
+              "type": "text",
+              "label": "img alt Burger stack with toppings"
+            },
+            "region57": {
+              "type": "text",
+              "label": "img src ../public/images/insta-5.jpg",
+              "format": "asset"
+            },
+            "region58": {
+              "type": "text",
+              "label": "img alt Food truck burger service"
+            },
+            "region59": {
+              "type": "text",
+              "label": "img src ../public/images/insta-6.jpg",
+              "format": "asset"
+            },
+            "region60": {
+              "type": "text",
+              "label": "img alt Smoky grilled burger"
+            },
+            "region61": {
+              "type": "text",
+              "label": "h4 About"
+            },
+            "region62": {
+              "type": "text",
+              "label": "a href #order",
+              "format": "url"
+            },
+            "region63": {
+              "type": "text",
+              "label": "a Our menu"
+            },
+            "region64": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region65": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region66": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region67": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region68": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region69": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region70": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region71": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region72": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region73": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region74": {
+              "type": "text",
+              "label": "h4 Open Hours"
+            },
+            "region75": {
+              "type": "text",
+              "label": "dt Wednesday - Friday"
+            },
+            "region76": {
+              "type": "text",
+              "label": "dd 11:30am - 9pm"
+            },
+            "region77": {
+              "type": "text",
+              "label": "dt Saturday - Sunday"
+            },
+            "region78": {
+              "type": "text",
+              "label": "dd 9am - 9pm"
+            },
+            "region79": {
+              "type": "text",
+              "label": "dt Monday & Tuesday"
+            },
+            "region80": {
+              "type": "text",
+              "label": "dd Closed"
+            },
+            "region81": {
+              "type": "text",
+              "label": "h4 Find Us"
+            },
+            "region82": {
+              "type": "text",
+              "label": "a href https://www.facebook.com/StackedBurgerBarNZ",
+              "format": "url"
+            },
+            "region83": {
+              "type": "text",
+              "label": "a href https://www.instagram.com/stackedburgerbarnz",
+              "format": "url"
+            },
+            "region84": {
+              "type": "text",
+              "label": "p 119 Richardson Road"
+            },
+            "region85": {
+              "type": "text",
+              "label": "p Mount Albert, 1025,"
+            },
+            "region86": {
+              "type": "text",
+              "label": "p Auckland."
+            },
+            "region87": {
+              "type": "text",
+              "label": "span \u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar"
+            },
+            "region88": {
+              "type": "text",
+              "label": "span Made with care in Auckland"
+            }
+          }
+        }
+      },
+      "defaultProps": {
+        "values": {
+          "region0": "Stacked Burger Bar serves fresh burgers, gluten-friendly options, vegan dishes, and food truck events in Mt Albert, Auckland.",
+          "region1": "Stacked Burger Bar \u2014 Mt Albert, Auckland",
+          "region2": "Fresh burgers, local ingredients, and community-focused food truck events in Mt Albert.",
+          "region3": "Stacked Burger Bar \u2014 Mt Albert, Auckland",
+          "region4": "#top",
+          "region5": "STACKED",
+          "region6": "BURGER BAR",
+          "region7": "#top",
+          "region8": "Home",
+          "region9": "/templates/our-story.html",
+          "region10": "Our story",
+          "region11": "/templates/initiatives-and-partners.html",
+          "region12": "Initiatives & partners",
+          "region13": "/templates/events.html",
+          "region14": "Events",
+          "region15": "/templates/venue-hire.html",
+          "region16": "Venue hire",
+          "region17": "/templates/contact-us.html",
+          "region18": "Contact us",
+          "region19": "https://www.delivereasy.co.nz/stacked-burger-bar-auckland-delivery",
+          "region20": "Order now",
+          "region21": "#top",
+          "region22": "Home",
+          "region23": "/templates/our-story.html",
+          "region24": "Our story",
+          "region25": "/templates/initiatives-and-partners.html",
+          "region26": "Initiatives & partners",
+          "region27": "/templates/events.html",
+          "region28": "Events",
+          "region29": "/templates/venue-hire.html",
+          "region30": "Venue hire",
+          "region31": "/templates/contact-us.html",
+          "region32": "Contact us",
+          "region33": "STACKED",
+          "region34": "with goodness",
+          "region35": "/templates/contact-us.html",
+          "region36": "../public/svg/Stacked-pickup-trailer.svg",
+          "region37": "Pickup icon",
+          "region38": "PICKUP",
+          "region39": "https://www.delivereasy.co.nz/stacked-burger-bar-auckland-delivery",
+          "region40": "../public/svg/Stacked-delivery-scooter.svg",
+          "region41": "Delivery icon",
+          "region42": "DELIVERY",
+          "region43": "Something for everyone",
+          "region44": "Gluten, vegan & vegetarian friendly.",
+          "region45": "#order",
+          "region46": "Our menu",
+          "region47": "\n        Follow us\n      ",
+          "region48": "#Stackedburgerbarnz",
+          "region49": "../public/images/insta-1.jpg",
+          "region50": "Stacked burger bar burger close-up",
+          "region51": "../public/images/insta-2.jpg",
+          "region52": "Stacked burger bar meal presentation",
+          "region53": "../public/images/insta-3.jpg",
+          "region54": "Fresh fries and burger platter",
+          "region55": "../public/images/insta-4.jpg",
+          "region56": "Burger stack with toppings",
+          "region57": "../public/images/insta-5.jpg",
+          "region58": "Food truck burger service",
+          "region59": "../public/images/insta-6.jpg",
+          "region60": "Smoky grilled burger",
+          "region61": "About",
+          "region62": "#order",
+          "region63": "Our menu",
+          "region64": "/templates/our-story.html",
+          "region65": "Our story",
+          "region66": "/templates/initiatives-and-partners.html",
+          "region67": "Initiatives & partners",
+          "region68": "/templates/events.html",
+          "region69": "Events",
+          "region70": "/templates/venue-hire.html",
+          "region71": "Venue hire",
+          "region72": "/templates/contact-us.html",
+          "region73": "Contact us",
+          "region74": "Open Hours",
+          "region75": "Wednesday - Friday",
+          "region76": "11:30am - 9pm",
+          "region77": "Saturday - Sunday",
+          "region78": "9am - 9pm",
+          "region79": "Monday & Tuesday",
+          "region80": "Closed",
+          "region81": "Find Us",
+          "region82": "https://www.facebook.com/StackedBurgerBarNZ",
+          "region83": "https://www.instagram.com/stackedburgerbarnz",
+          "region84": "119 Richardson Road",
+          "region85": "Mount Albert, 1025,",
+          "region86": "Auckland.",
+          "region87": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+          "region88": "Made with care in Auckland"
+        }
+      }
+    },
+    "TemplateOurStory": {
+      "label": "Our story \u2014 Stacked Burger Bar",
+      "fields": {
+        "values": {
+          "type": "object",
+          "objectFields": {
+            "region0": {
+              "type": "text",
+              "label": "meta content Learn about the story behind Stacked Burger B"
+            },
+            "region1": {
+              "type": "text",
+              "label": "meta content Our story \u2014 Stacked Burger Bar"
+            },
+            "region2": {
+              "type": "text",
+              "label": "meta content Discover the story behind Stacked Burger Bar "
+            },
+            "region3": {
+              "type": "text",
+              "label": "title Our story \u2014 Stacked Burger Bar"
+            },
+            "region4": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region5": {
+              "type": "text",
+              "label": "span STACKED"
+            },
+            "region6": {
+              "type": "text",
+              "label": "span BURGER BAR"
+            },
+            "region7": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region8": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region9": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region10": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region11": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region12": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region13": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region14": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region15": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region16": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region17": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region18": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region19": {
+              "type": "text",
+              "label": "a href /templates/index.html#order",
+              "format": "url"
+            },
+            "region20": {
+              "type": "text",
+              "label": "a Order now"
+            },
+            "region21": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region22": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region23": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region24": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region25": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region26": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region27": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region28": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region29": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region30": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region31": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region32": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region33": {
+              "type": "text",
+              "label": "h1 Our story"
+            },
+            "region34": {
+              "type": "text",
+              "label": "img src ../public/images/Mel%20%26%20Joel%202.JPG",
+              "format": "asset"
+            },
+            "region35": {
+              "type": "text",
+              "label": "img alt Mel and Joel"
+            },
+            "region36": {
+              "type": "text",
+              "label": "p Mel and Joel"
+            },
+            "region37": {
+              "type": "text",
+              "label": "h4 About"
+            },
+            "region38": {
+              "type": "text",
+              "label": "a href /templates/index.html#menu",
+              "format": "url"
+            },
+            "region39": {
+              "type": "text",
+              "label": "a Our menu"
+            },
+            "region40": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region41": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region42": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region43": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region44": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region45": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region46": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region47": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region48": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region49": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region50": {
+              "type": "text",
+              "label": "h4 Open Hours"
+            },
+            "region51": {
+              "type": "text",
+              "label": "dt Wednesday - Friday"
+            },
+            "region52": {
+              "type": "text",
+              "label": "dd 11:30am - 9pm"
+            },
+            "region53": {
+              "type": "text",
+              "label": "dt Saturday - Sunday"
+            },
+            "region54": {
+              "type": "text",
+              "label": "dd 9am - 9pm"
+            },
+            "region55": {
+              "type": "text",
+              "label": "dt Monday & Tuesday"
+            },
+            "region56": {
+              "type": "text",
+              "label": "dd Closed"
+            },
+            "region57": {
+              "type": "text",
+              "label": "h4 Find Us"
+            },
+            "region58": {
+              "type": "text",
+              "label": "a href https://www.facebook.com/StackedBurgerBarNZ",
+              "format": "url"
+            },
+            "region59": {
+              "type": "text",
+              "label": "a href https://www.instagram.com/stackedburgerbarnz",
+              "format": "url"
+            },
+            "region60": {
+              "type": "text",
+              "label": "p 119 Richardson Road"
+            },
+            "region61": {
+              "type": "text",
+              "label": "p Mount Albert, 1025,"
+            },
+            "region62": {
+              "type": "text",
+              "label": "p Auckland."
+            },
+            "region63": {
+              "type": "text",
+              "label": "span \u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar"
+            },
+            "region64": {
+              "type": "text",
+              "label": "span Made with care in Auckland"
+            }
+          }
+        }
+      },
+      "defaultProps": {
+        "values": {
+          "region0": "Learn about the story behind Stacked Burger Bar, our values, and our commitment to inclusive food and local suppliers.",
+          "region1": "Our story \u2014 Stacked Burger Bar",
+          "region2": "Discover the story behind Stacked Burger Bar and the values that shape the menu and experience.",
+          "region3": "Our story \u2014 Stacked Burger Bar",
+          "region4": "/templates/index.html",
+          "region5": "STACKED",
+          "region6": "BURGER BAR",
+          "region7": "/templates/index.html",
+          "region8": "Home",
+          "region9": "/templates/our-story.html",
+          "region10": "Our story",
+          "region11": "/templates/initiatives-and-partners.html",
+          "region12": "Initiatives & partners",
+          "region13": "/templates/events.html",
+          "region14": "Events",
+          "region15": "/templates/venue-hire.html",
+          "region16": "Venue hire",
+          "region17": "/templates/contact-us.html",
+          "region18": "Contact us",
+          "region19": "/templates/index.html#order",
+          "region20": "Order now",
+          "region21": "/templates/index.html",
+          "region22": "Home",
+          "region23": "/templates/our-story.html",
+          "region24": "Our story",
+          "region25": "/templates/initiatives-and-partners.html",
+          "region26": "Initiatives & partners",
+          "region27": "/templates/events.html",
+          "region28": "Events",
+          "region29": "/templates/venue-hire.html",
+          "region30": "Venue hire",
+          "region31": "/templates/contact-us.html",
+          "region32": "Contact us",
+          "region33": "Our story",
+          "region34": "../public/images/Mel%20%26%20Joel%202.JPG",
+          "region35": "Mel and Joel",
+          "region36": "Mel and Joel",
+          "region37": "About",
+          "region38": "/templates/index.html#menu",
+          "region39": "Our menu",
+          "region40": "/templates/our-story.html",
+          "region41": "Our story",
+          "region42": "/templates/initiatives-and-partners.html",
+          "region43": "Initiatives & partners",
+          "region44": "/templates/events.html",
+          "region45": "Events",
+          "region46": "/templates/venue-hire.html",
+          "region47": "Venue hire",
+          "region48": "/templates/contact-us.html",
+          "region49": "Contact us",
+          "region50": "Open Hours",
+          "region51": "Wednesday - Friday",
+          "region52": "11:30am - 9pm",
+          "region53": "Saturday - Sunday",
+          "region54": "9am - 9pm",
+          "region55": "Monday & Tuesday",
+          "region56": "Closed",
+          "region57": "Find Us",
+          "region58": "https://www.facebook.com/StackedBurgerBarNZ",
+          "region59": "https://www.instagram.com/stackedburgerbarnz",
+          "region60": "119 Richardson Road",
+          "region61": "Mount Albert, 1025,",
+          "region62": "Auckland.",
+          "region63": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+          "region64": "Made with care in Auckland"
+        }
+      }
+    },
+    "TemplateInitiativesAndPartners": {
+      "label": "Initiatives and partners \u2014 Stacked Burger Bar",
+      "fields": {
+        "values": {
+          "type": "object",
+          "objectFields": {
+            "region0": {
+              "type": "text",
+              "label": "meta content Explore Stacked Burger Bar\u2019s local partnershi"
+            },
+            "region1": {
+              "type": "text",
+              "label": "meta content Initiatives & partners \u2014 Stacked Burger Bar"
+            },
+            "region2": {
+              "type": "text",
+              "label": "meta content Learn about the local partnerships and sustai"
+            },
+            "region3": {
+              "type": "text",
+              "label": "title Initiatives and partners \u2014 Stacked Burger Bar"
+            },
+            "region4": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region5": {
+              "type": "text",
+              "label": "span STACKED"
+            },
+            "region6": {
+              "type": "text",
+              "label": "span BURGER BAR"
+            },
+            "region7": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region8": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region9": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region10": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region11": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region12": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region13": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region14": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region15": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region16": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region17": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region18": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region19": {
+              "type": "text",
+              "label": "a href /templates/index.html#order",
+              "format": "url"
+            },
+            "region20": {
+              "type": "text",
+              "label": "a Order now"
+            },
+            "region21": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region22": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region23": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region24": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region25": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region26": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region27": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region28": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region29": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region30": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region31": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region32": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region33": {
+              "type": "text",
+              "label": "h1 Initiatives & partners"
+            },
+            "region34": {
+              "type": "text",
+              "label": "h2 New Zealand / Buying Local"
+            },
+            "region35": {
+              "type": "textarea",
+              "label": "p Wherever we can we strive to ensure everything we buy c"
+            },
+            "region36": {
+              "type": "textarea",
+              "label": "p We believe in NZ product so much we don\u2019t do anything t"
+            },
+            "region37": {
+              "type": "text",
+              "label": "a href #",
+              "format": "url"
+            },
+            "region38": {
+              "type": "text",
+              "label": "a Gluten friendly"
+            },
+            "region39": {
+              "type": "text",
+              "label": "a href #",
+              "format": "url"
+            },
+            "region40": {
+              "type": "text",
+              "label": "a Vegan & vegetarian"
+            },
+            "region41": {
+              "type": "text",
+              "label": "a href #",
+              "format": "url"
+            },
+            "region42": {
+              "type": "text",
+              "label": "a Halal"
+            },
+            "region43": {
+              "type": "text",
+              "label": "a href #",
+              "format": "url"
+            },
+            "region44": {
+              "type": "text",
+              "label": "a Karma Drinks"
+            },
+            "region45": {
+              "type": "text",
+              "label": "a href #",
+              "format": "url"
+            },
+            "region46": {
+              "type": "text",
+              "label": "a Kokako Coffee"
+            },
+            "region47": {
+              "type": "text",
+              "label": "a href #",
+              "format": "url"
+            },
+            "region48": {
+              "type": "text",
+              "label": "a Composting & Recycling"
+            },
+            "region49": {
+              "type": "text",
+              "label": "a href #",
+              "format": "url"
+            },
+            "region50": {
+              "type": "text",
+              "label": "a Deliver Easy"
+            },
+            "region51": {
+              "type": "text",
+              "label": "h3 Gluten / vegan & vegetarian friendly"
+            },
+            "region52": {
+              "type": "text",
+              "label": "p We believe that when you choose to eat out, everyone sh"
+            },
+            "region53": {
+              "type": "text",
+              "label": "h3 Gluten friendly"
+            },
+            "region54": {
+              "type": "textarea",
+              "label": "p Our best mate is coeliac, and we always saw how much of"
+            },
+            "region55": {
+              "type": "textarea",
+              "label": "p We have ensured all of our products except the buns are"
+            },
+            "region56": {
+              "type": "textarea",
+              "label": "p We add nothing but salt to our meat patties, our batter"
+            },
+            "region57": {
+              "type": "text",
+              "label": "h3 Vegan & vegetarian friendly"
+            },
+            "region58": {
+              "type": "textarea",
+              "label": "p It has been getting a lot easier to find meals that are"
+            },
+            "region59": {
+              "type": "textarea",
+              "label": "p The sauces we use have been specifically chosen to be v"
+            },
+            "region60": {
+              "type": "textarea",
+              "label": "p On top of this we believe in being able to have drinks "
+            },
+            "region61": {
+              "type": "text",
+              "label": "h3 Halal"
+            },
+            "region62": {
+              "type": "text",
+              "label": "p Our meat is sourced from a local certified halal suppli"
+            },
+            "region63": {
+              "type": "text",
+              "label": "h3 Karma Drinks"
+            },
+            "region64": {
+              "type": "textarea",
+              "label": "p When we searched for bottled product to sell, we knew w"
+            },
+            "region65": {
+              "type": "textarea",
+              "label": "p To hold them to account to their mission to be the worl"
+            },
+            "region66": {
+              "type": "textarea",
+              "label": "p Not only this, Karma want the best for the environment "
+            },
+            "region67": {
+              "type": "text",
+              "label": "p Learn more about the"
+            },
+            "region68": {
+              "type": "text",
+              "label": "a href https://shop.karmacola.co.nz/pages/the-karma-",
+              "format": "url"
+            },
+            "region69": {
+              "type": "text",
+              "label": "a Karma Foundation"
+            },
+            "region70": {
+              "type": "text",
+              "label": "h3 Kokako Coffee"
+            },
+            "region71": {
+              "type": "text",
+              "label": "p We source our coffee from our local roaster up in Mt Ed"
+            },
+            "region72": {
+              "type": "textarea",
+              "label": "p These are compostable which is so important to us. Most"
+            },
+            "region73": {
+              "type": "textarea",
+              "label": "p Kokako\u2019s Mahana coffee is Fair Trade & Biogro Organic c"
+            },
+            "region74": {
+              "type": "text",
+              "label": "h3 Bon Accord"
+            },
+            "region75": {
+              "type": "text",
+              "label": "p We have partnered with Bon Accord to bring you our beau"
+            },
+            "region76": {
+              "type": "textarea",
+              "label": "p We are proud to be partnered with Bon Accord. One of ou"
+            },
+            "region77": {
+              "type": "text",
+              "label": "h3 Green Gorilla Composting and Recycling Program"
+            },
+            "region78": {
+              "type": "text",
+              "label": "p It was important to us to be as environmentally friendl"
+            },
+            "region79": {
+              "type": "textarea",
+              "label": "p Our food packaging is all recyclable and/or biodegradab"
+            },
+            "region80": {
+              "type": "text",
+              "label": "h5 Green Gorilla"
+            },
+            "region81": {
+              "type": "text",
+              "label": "p Are the only comprehensive Waste Processing Facility in"
+            },
+            "region82": {
+              "type": "text",
+              "label": "p Diverts over 75,000 tonnes of waste per annum away from"
+            },
+            "region83": {
+              "type": "text",
+              "label": "h5 Recycling Program"
+            },
+            "region84": {
+              "type": "text",
+              "label": "p We choose specifically to only have glass bottled produ"
+            },
+            "region85": {
+              "type": "text",
+              "label": "h5 Compostable Program"
+            },
+            "region86": {
+              "type": "textarea",
+              "label": "p All of our packaging from boxes, bags, wraps, coffee gr"
+            },
+            "region87": {
+              "type": "textarea",
+              "label": "p Onsite we ensure all food waste/scraps and your burger "
+            },
+            "region88": {
+              "type": "text",
+              "label": "h3 Deliver Easy"
+            },
+            "region89": {
+              "type": "textarea",
+              "label": "p Deliver Easy is a New Zealand owned delivery company th"
+            },
+            "region90": {
+              "type": "text",
+              "label": "a href https://www.delivereasy.co.nz/stacked-burger-",
+              "format": "url"
+            },
+            "region91": {
+              "type": "text",
+              "label": "a Order Your Delivery"
+            },
+            "region92": {
+              "type": "text",
+              "label": "h4 About"
+            },
+            "region93": {
+              "type": "text",
+              "label": "a href /templates/index.html#menu",
+              "format": "url"
+            },
+            "region94": {
+              "type": "text",
+              "label": "a Our menu"
+            },
+            "region95": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region96": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region97": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region98": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region99": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region100": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region101": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region102": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region103": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region104": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region105": {
+              "type": "text",
+              "label": "h4 Open Hours"
+            },
+            "region106": {
+              "type": "text",
+              "label": "dt Wednesday - Friday"
+            },
+            "region107": {
+              "type": "text",
+              "label": "dd 11:30am - 9pm"
+            },
+            "region108": {
+              "type": "text",
+              "label": "dt Saturday - Sunday"
+            },
+            "region109": {
+              "type": "text",
+              "label": "dd 9am - 9pm"
+            },
+            "region110": {
+              "type": "text",
+              "label": "dt Monday & Tuesday"
+            },
+            "region111": {
+              "type": "text",
+              "label": "dd Closed"
+            },
+            "region112": {
+              "type": "text",
+              "label": "h4 Find Us"
+            },
+            "region113": {
+              "type": "text",
+              "label": "a href https://www.facebook.com/StackedBurgerBarNZ",
+              "format": "url"
+            },
+            "region114": {
+              "type": "text",
+              "label": "a href https://www.instagram.com/stackedburgerbarnz",
+              "format": "url"
+            },
+            "region115": {
+              "type": "text",
+              "label": "p 119 Richardson Road"
+            },
+            "region116": {
+              "type": "text",
+              "label": "p Mount Albert, 1025,"
+            },
+            "region117": {
+              "type": "text",
+              "label": "p Auckland."
+            },
+            "region118": {
+              "type": "text",
+              "label": "span \u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar"
+            },
+            "region119": {
+              "type": "text",
+              "label": "span Made with care in Auckland"
+            }
+          }
+        }
+      },
+      "defaultProps": {
+        "values": {
+          "region0": "Explore Stacked Burger Bar\u2019s local partnerships, sustainability initiatives, and community-focused food values.",
+          "region1": "Initiatives & partners \u2014 Stacked Burger Bar",
+          "region2": "Learn about the local partnerships and sustainability work behind Stacked Burger Bar.",
+          "region3": "Initiatives and partners \u2014 Stacked Burger Bar",
+          "region4": "/templates/index.html",
+          "region5": "STACKED",
+          "region6": "BURGER BAR",
+          "region7": "/templates/index.html",
+          "region8": "Home",
+          "region9": "/templates/our-story.html",
+          "region10": "Our story",
+          "region11": "/templates/initiatives-and-partners.html",
+          "region12": "Initiatives & partners",
+          "region13": "/templates/events.html",
+          "region14": "Events",
+          "region15": "/templates/venue-hire.html",
+          "region16": "Venue hire",
+          "region17": "/templates/contact-us.html",
+          "region18": "Contact us",
+          "region19": "/templates/index.html#order",
+          "region20": "Order now",
+          "region21": "/templates/index.html",
+          "region22": "Home",
+          "region23": "/templates/our-story.html",
+          "region24": "Our story",
+          "region25": "/templates/initiatives-and-partners.html",
+          "region26": "Initiatives & partners",
+          "region27": "/templates/events.html",
+          "region28": "Events",
+          "region29": "/templates/venue-hire.html",
+          "region30": "Venue hire",
+          "region31": "/templates/contact-us.html",
+          "region32": "Contact us",
+          "region33": "Initiatives & partners",
+          "region34": "\n\t\t\t\t\t\tNew Zealand / Buying Local\n\t\t\t\t\t",
+          "region35": "\n\t\t\t\t\tWherever we can we strive to ensure everything we buy comes from New Zealand. It is so important to us that when you buy from us, you\u2019re not only supporting the local Burger Bar, but you are supporting local growers and other businesses. This knock-on effect we believe will help NZ\u2019s economy and help get as many kiwis employed as possible.",
+          "region36": "We believe in NZ product so much we don\u2019t do anything to change it, meaning when you eat our chicken you can know that it is 100% free range chicken tenderloins dipped in our batter. Our meat patties are 100% beef with a pinch of salt because, let\u2019s be honest, NZ product is amazing just the way it is.\u00a0\n\t\t\t\t",
+          "region37": "#",
+          "region38": "Gluten friendly",
+          "region39": "#",
+          "region40": "Vegan & vegetarian",
+          "region41": "#",
+          "region42": "Halal",
+          "region43": "#",
+          "region44": "Karma Drinks",
+          "region45": "#",
+          "region46": "Kokako Coffee",
+          "region47": "#",
+          "region48": "Composting & Recycling",
+          "region49": "#",
+          "region50": "Deliver Easy",
+          "region51": "\n\t\t\t\t\tGluten / vegan & vegetarian friendly\n\t\t\t\t",
+          "region52": "\n\t\t\t\t\tWe believe that when you choose to eat out, everyone should have a variety of options available to choose from.\n\t\t\t\t",
+          "region53": "\n\t\t\t\t\tGluten friendly\n\t\t\t\t",
+          "region54": "\n\t\t\t\t\tOur best mate is coeliac, and we always saw how much of a struggle it was for her to find something on the menu she could eat, and how careful she had to be. It didn\u2019t sit right with us, and on top of that, trying to find a good burger place that can easily cater to gluten intolerance is not easy.",
+          "region55": "We have ensured all of our products except the buns are gluten free, or have no added gluten. And we have sourced an amazing gluten free (and vegan!) bun for those who cannot consume gluten (or are looking for a vegan option). When these allergies come up in our food truck, we ensure we change gloves, and even toast your GF bun separately, before making your order. Please note these gluten free buns are all individually wrapped, grilled in a gluten free oven and put into a box to ensure its not touching gluten crumbs or mixing with our glutenous buns.",
+          "region56": "\u00a0We add nothing but salt to our meat patties, our batters are made from rice flour, all sauces are gluten free or have no added gluten and we\u2019ve checked every product right down to our pickles (which aren\u2019t always GF due to the type of vinegar used) to make sure you don\u2019t have to worry about eating at Stacked. Please talk to our friendly cashier team if you fall under this category.\n\t\t\t\t",
+          "region57": "\n\t\t\t\t\tVegan & vegetarian friendly\n\t\t\t\t",
+          "region58": "\n\t\t\t\t\tIt has been getting a lot easier to find meals that are vegan these days, but we always thought that burger bars did not really excel in this area. We decided to make burgers that we believe hit the nail on the head.",
+          "region59": "The sauces we use have been specifically chosen to be vegan friendly, as well as our batters, cheese and buns, meaning you can enjoy our food with peace of mind knowing you are getting what you ask for.\u00a0",
+          "region60": "On top of this we believe in being able to have drinks that are vegan friendly. We have vegan options in our bottled, frappe and smoothie range, and even our hot chocolate is vegan certified! So you can enjoy a hot chocolate, mocha or even try our new mint flavoured hot chocolate resting assured it\u2019s vegan. Milk: We offer soya, almond and oat options to be used instead of our Jersey Girls A2 milk. Please ask what options are vegan when you are next in store!\u00a0\n\t\t\t\t",
+          "region61": "\n\t\t\t\t\tHalal\n\t\t\t\t",
+          "region62": "\n\t\t\t\t\tOur meat is sourced from a local certified halal supplier. We do have pork, however this is cooked in a separate frying pan.\n\t\t\t\t",
+          "region63": "\n\t\t\t\t\tKarma Drinks\n\t\t\t\t",
+          "region64": "\n\t\t\t\t\tWhen we searched for bottled product to sell, we knew we found a company to back when we came across Karma Drinks. They stand for everything we believe in. They believe their drinks should not only taste good, but be good to the planet, the people who grow their ingredients and you!",
+          "region65": "To hold them to account to their mission to be the world\u2019s most ethical soft drink they established the Karma Foundation. 1% of revenue from every Karma Drink goes to their Cola nut growers and their communities in Sierra Leone.",
+          "region66": "Not only this, Karma want the best for the environment by standing against plastic, something we strongly believe in. They also believe in organic, ensuring less toxins and other nasties can end up in your drink. Every sip you take you can sip assured you are drinking quality.",
+          "region67": "Learn more about the ",
+          "region68": "https://shop.karmacola.co.nz/pages/the-karma-foundation",
+          "region69": "Karma Foundation",
+          "region70": "\n\t\t\t\t\tKokako Coffee\n\t\t\t\t",
+          "region71": "\n\t\t\t\t\tWe source our coffee from our local roaster up in Mt Eden. We love what they stand for and have partnered with them for several reasons:\u00a0",
+          "region72": " These are compostable which is so important to us. Most coffee cups that say biodegradable or recycling don\u2019t actually make their way to any sort of recycling facility, instead ending up in the landfill. Because these are compostable, we are able to commercially compost them through Green Gorilla to ensure we give back positively to the environment.\n\t\t\t\t\t\t",
+          "region73": " Kokako\u2019s Mahana coffee is Fair Trade & Biogro Organic certified, and has a full bodied chocolatey flavour. The coffee beans are sourced from Fairtrade Organic cooperatives in Ethiopia, Sumatra & the Democratic Republic of Congo. Honestly, we haven\u2019t tasted better coffee than this!\n\t\t\t\t\t\t",
+          "region74": "\n\t\t\t\t\tBon Accord\n\t\t\t\t",
+          "region75": "\n\t\t\t\t\tWe have partnered with Bon Accord to bring you our beautiful Frappes, Real Fruit Pulp smoothies, Iced Tea and other hot beverages.\u00a0",
+          "region76": "We are proud to be partnered with Bon Accord. One of our favourite things we stock is their Bon Accord Fairtrade Vegan Beglian Style Hot Chocolate. This is designed for any hot chocolate lover and is hands down what we believe to be the best hot chocolate out there on the market. It delivers a rich, dark hot chocolate experience, and you can enjoy with peace of mind knowing it\u2019s benefiting families at the origin. \u00a0\n\t\t\t\t",
+          "region77": "\n\t\t\t\t\tGreen Gorilla Composting and Recycling Program\n\t\t\t\t",
+          "region78": "\n\t\t\t\t\t\t\tIt was important to us to be as environmentally friendly as we possibly could.",
+          "region79": "Our food packaging is all recyclable and/or biodegradable/compostable, and to help us make sure our product ends up in a better place we have partnered with Green Gorilla. \u00a0",
+          "region80": "\n\t\t\t\t\tGreen Gorilla\n\t\t\t\t",
+          "region81": "\n\t\t\t\t\t\t\tAre the only comprehensive Waste Processing Facility in New Zealand\n\t\t\t\t\t\t",
+          "region82": "\n\t\t\t\t\t\t\tDiverts over 75,000 tonnes of waste per annum away from Auckland's landfills\n\t\t\t\t\t\t",
+          "region83": "\n\t\t\t\t\tRecycling Program\n\t\t\t\t",
+          "region84": "\n\t\t\t\t\t\t\tWe choose specifically to only have glass bottled products, which we recycle through Green Gorilla along with the rest of our recycling.\n\t\t\t\t\t\t",
+          "region85": "\n\t\t\t\t\tCompostable Program\n\t\t\t\t",
+          "region86": "\n\t\t\t\t\t\t\tAll of our packaging from boxes, bags, wraps, coffee grounds and coffee cups to straws and stickers is compostable. (The only thing we\u2019ve found isn\u2019t compostable is our receipt paper! We are currently looking into alternatives.)\n\t\t\t\t\t\t",
+          "region87": "\n\t\t\t\t\t\t\tOnsite we ensure all food waste/scraps and your burger packaging (should you eat your meal onsite) is sent to Green Gorilla who ensure it is commercially composted, helping reduce methane gas and diverting rubbish from the landfill.\n\t\t\t\t\t\t",
+          "region88": "\n\t\t\t\t\tDeliver Easy\n\t\t\t\t",
+          "region89": "\n\t\t\t\t\tDeliver Easy is a New Zealand owned delivery company that came into Auckland in August 2020. We have joined forces because we love how they treat their drivers! They ensure their drivers get (at minimum) the living wage. They\u2019re a New Zealand owned and operated business, so when you order a Stacked Burger Bar delivery through them, you\u2019re helping support our NZ economy \u2013 it\u2019s a no brainer!\u00a0\n\t\t\t\t",
+          "region90": "https://www.delivereasy.co.nz/stacked-burger-bar-auckland-delivery ",
+          "region91": "Order Your Delivery",
+          "region92": "About",
+          "region93": "/templates/index.html#menu",
+          "region94": "Our menu",
+          "region95": "/templates/our-story.html",
+          "region96": "Our story",
+          "region97": "/templates/initiatives-and-partners.html",
+          "region98": "Initiatives & partners",
+          "region99": "/templates/events.html",
+          "region100": "Events",
+          "region101": "/templates/venue-hire.html",
+          "region102": "Venue hire",
+          "region103": "/templates/contact-us.html",
+          "region104": "Contact us",
+          "region105": "Open Hours",
+          "region106": "Wednesday - Friday",
+          "region107": "11:30am - 9pm",
+          "region108": "Saturday - Sunday",
+          "region109": "9am - 9pm",
+          "region110": "Monday & Tuesday",
+          "region111": "Closed",
+          "region112": "Find Us",
+          "region113": "https://www.facebook.com/StackedBurgerBarNZ",
+          "region114": "https://www.instagram.com/stackedburgerbarnz",
+          "region115": "119 Richardson Road",
+          "region116": "Mount Albert, 1025,",
+          "region117": "Auckland.",
+          "region118": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+          "region119": "Made with care in Auckland"
+        }
+      }
+    },
+    "TemplateEvents": {
+      "label": "Events \u2014 Stacked Burger Bar",
+      "fields": {
+        "values": {
+          "type": "object",
+          "objectFields": {
+            "region0": {
+              "type": "text",
+              "label": "meta content Find out about upcoming Stacked Burger Bar ev"
+            },
+            "region1": {
+              "type": "text",
+              "label": "meta content Events \u2014 Stacked Burger Bar"
+            },
+            "region2": {
+              "type": "text",
+              "label": "meta content See where Stacked Burger Bar is heading next "
+            },
+            "region3": {
+              "type": "text",
+              "label": "title Events \u2014 Stacked Burger Bar"
+            },
+            "region4": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region5": {
+              "type": "text",
+              "label": "span STACKED"
+            },
+            "region6": {
+              "type": "text",
+              "label": "span BURGER BAR"
+            },
+            "region7": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region8": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region9": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region10": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region11": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region12": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region13": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region14": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region15": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region16": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region17": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region18": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region19": {
+              "type": "text",
+              "label": "a href /templates/index.html#order",
+              "format": "url"
+            },
+            "region20": {
+              "type": "text",
+              "label": "a Order now"
+            },
+            "region21": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region22": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region23": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region24": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region25": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region26": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region27": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region28": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region29": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region30": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region31": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region32": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region33": {
+              "type": "text",
+              "label": "h1 Events"
+            },
+            "region34": {
+              "type": "text",
+              "label": "h2 Something delicious is heading your way"
+            },
+            "region35": {
+              "type": "textarea",
+              "label": "p We\u2019re putting the final touches on our next pop-up and "
+            },
+            "region36": {
+              "type": "text",
+              "label": "h4 About"
+            },
+            "region37": {
+              "type": "text",
+              "label": "a href /templates/index.html#menu",
+              "format": "url"
+            },
+            "region38": {
+              "type": "text",
+              "label": "a Our menu"
+            },
+            "region39": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region40": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region41": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region42": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region43": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region44": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region45": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region46": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region47": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region48": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region49": {
+              "type": "text",
+              "label": "h4 Open Hours"
+            },
+            "region50": {
+              "type": "text",
+              "label": "dt Wednesday - Friday"
+            },
+            "region51": {
+              "type": "text",
+              "label": "dd 11:30am - 9pm"
+            },
+            "region52": {
+              "type": "text",
+              "label": "dt Saturday - Sunday"
+            },
+            "region53": {
+              "type": "text",
+              "label": "dd 9am - 9pm"
+            },
+            "region54": {
+              "type": "text",
+              "label": "dt Monday & Tuesday"
+            },
+            "region55": {
+              "type": "text",
+              "label": "dd Closed"
+            },
+            "region56": {
+              "type": "text",
+              "label": "h4 Find Us"
+            },
+            "region57": {
+              "type": "text",
+              "label": "a href https://www.facebook.com/StackedBurgerBarNZ",
+              "format": "url"
+            },
+            "region58": {
+              "type": "text",
+              "label": "a href https://www.instagram.com/stackedburgerbarnz",
+              "format": "url"
+            },
+            "region59": {
+              "type": "text",
+              "label": "p 119 Richardson Road"
+            },
+            "region60": {
+              "type": "text",
+              "label": "p Mount Albert, 1025,"
+            },
+            "region61": {
+              "type": "text",
+              "label": "p Auckland."
+            },
+            "region62": {
+              "type": "text",
+              "label": "span \u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar"
+            },
+            "region63": {
+              "type": "text",
+              "label": "span Made with care in Auckland"
+            }
+          }
+        }
+      },
+      "defaultProps": {
+        "values": {
+          "region0": "Find out about upcoming Stacked Burger Bar events and special pop-ups in and around Auckland.",
+          "region1": "Events \u2014 Stacked Burger Bar",
+          "region2": "See where Stacked Burger Bar is heading next and catch us at local events.",
+          "region3": "Events \u2014 Stacked Burger Bar",
+          "region4": "/templates/index.html",
+          "region5": "STACKED",
+          "region6": "BURGER BAR",
+          "region7": "/templates/index.html",
+          "region8": "Home",
+          "region9": "/templates/our-story.html",
+          "region10": "Our story",
+          "region11": "/templates/initiatives-and-partners.html",
+          "region12": "Initiatives & partners",
+          "region13": "/templates/events.html",
+          "region14": "Events",
+          "region15": "/templates/venue-hire.html",
+          "region16": "Venue hire",
+          "region17": "/templates/contact-us.html",
+          "region18": "Contact us",
+          "region19": "/templates/index.html#order",
+          "region20": "Order now",
+          "region21": "/templates/index.html",
+          "region22": "Home",
+          "region23": "/templates/our-story.html",
+          "region24": "Our story",
+          "region25": "/templates/initiatives-and-partners.html",
+          "region26": "Initiatives & partners",
+          "region27": "/templates/events.html",
+          "region28": "Events",
+          "region29": "/templates/venue-hire.html",
+          "region30": "Venue hire",
+          "region31": "/templates/contact-us.html",
+          "region32": "Contact us",
+          "region33": "Events",
+          "region34": "Something delicious is heading your way",
+          "region35": "We\u2019re putting the final touches on our next pop-up and special event schedule. Watch this space for fresh drops, surprise guests, and a few extra burger thrills.",
+          "region36": "About",
+          "region37": "/templates/index.html#menu",
+          "region38": "Our menu",
+          "region39": "/templates/our-story.html",
+          "region40": "Our story",
+          "region41": "/templates/initiatives-and-partners.html",
+          "region42": "Initiatives & partners",
+          "region43": "/templates/events.html",
+          "region44": "Events",
+          "region45": "/templates/venue-hire.html",
+          "region46": "Venue hire",
+          "region47": "/templates/contact-us.html",
+          "region48": "Contact us",
+          "region49": "Open Hours",
+          "region50": "Wednesday - Friday",
+          "region51": "11:30am - 9pm",
+          "region52": "Saturday - Sunday",
+          "region53": "9am - 9pm",
+          "region54": "Monday & Tuesday",
+          "region55": "Closed",
+          "region56": "Find Us",
+          "region57": "https://www.facebook.com/StackedBurgerBarNZ",
+          "region58": "https://www.instagram.com/stackedburgerbarnz",
+          "region59": "119 Richardson Road",
+          "region60": "Mount Albert, 1025,",
+          "region61": "Auckland.",
+          "region62": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+          "region63": "Made with care in Auckland"
+        }
+      }
+    },
+    "TemplateVenueHire": {
+      "label": "Venue hire \u2014 Stacked Burger Bar",
+      "fields": {
+        "values": {
+          "type": "object",
+          "objectFields": {
+            "region0": {
+              "type": "text",
+              "label": "meta content Hire Stacked Burger Bar for your next event, "
+            },
+            "region1": {
+              "type": "text",
+              "label": "meta content Venue hire \u2014 Stacked Burger Bar"
+            },
+            "region2": {
+              "type": "text",
+              "label": "meta content Host your next event with Stacked Burger Bar\u2019"
+            },
+            "region3": {
+              "type": "text",
+              "label": "title Venue hire \u2014 Stacked Burger Bar"
+            },
+            "region4": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region5": {
+              "type": "text",
+              "label": "span STACKED"
+            },
+            "region6": {
+              "type": "text",
+              "label": "span BURGER BAR"
+            },
+            "region7": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region8": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region9": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region10": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region11": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region12": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region13": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region14": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region15": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region16": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region17": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region18": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region19": {
+              "type": "text",
+              "label": "a href /templates/index.html#order",
+              "format": "url"
+            },
+            "region20": {
+              "type": "text",
+              "label": "a Order now"
+            },
+            "region21": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region22": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region23": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region24": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region25": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region26": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region27": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region28": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region29": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region30": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region31": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region32": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region33": {
+              "type": "text",
+              "label": "h1 Venue hire"
+            },
+            "region34": {
+              "type": "text",
+              "label": "h2 Your next event here"
+            },
+            "region35": {
+              "type": "text",
+              "label": "p Parties, Weddings, Funerals and more..."
+            },
+            "region36": {
+              "type": "text",
+              "label": "img src /public/images/insta-1.jpg",
+              "format": "asset"
+            },
+            "region37": {
+              "type": "text",
+              "label": "img alt Stacked burger bar burger close-up"
+            },
+            "region38": {
+              "type": "text",
+              "label": "img src /public/images/insta-2.jpg",
+              "format": "asset"
+            },
+            "region39": {
+              "type": "text",
+              "label": "img alt Stacked burger bar meal presentation"
+            },
+            "region40": {
+              "type": "text",
+              "label": "img src /public/images/insta-3.jpg",
+              "format": "asset"
+            },
+            "region41": {
+              "type": "text",
+              "label": "img alt Fresh fries and burger platter"
+            },
+            "region42": {
+              "type": "text",
+              "label": "img src /public/images/venue-foodtruck.jpg",
+              "format": "asset"
+            },
+            "region43": {
+              "type": "text",
+              "label": "img alt Food truck venue setup"
+            },
+            "region44": {
+              "type": "text",
+              "label": "img src /public/images/hero-burger.jpg",
+              "format": "asset"
+            },
+            "region45": {
+              "type": "text",
+              "label": "img alt Stacked burger bar hero image"
+            },
+            "region46": {
+              "type": "text",
+              "label": "img src /public/images/insta-6.jpg",
+              "format": "asset"
+            },
+            "region47": {
+              "type": "text",
+              "label": "img alt Smoky grilled burger"
+            },
+            "region48": {
+              "type": "text",
+              "label": "h3 Rooms Available"
+            },
+            "region49": {
+              "type": "text",
+              "label": "h4 Auditorium"
+            },
+            "region50": {
+              "type": "text",
+              "label": "span (seating 135)"
+            },
+            "region51": {
+              "type": "textarea",
+              "label": "p The auditorium is an ideal space for corporate events, "
+            },
+            "region52": {
+              "type": "text",
+              "label": "h4 Hall"
+            },
+            "region53": {
+              "type": "text",
+              "label": "span (seating 50)"
+            },
+            "region54": {
+              "type": "textarea",
+              "label": "p This is a great room to celebrate birthdays, anniversar"
+            },
+            "region55": {
+              "type": "text",
+              "label": "h4 Caf\u00e9 & Foyer"
+            },
+            "region56": {
+              "type": "text",
+              "label": "span (seating 20)"
+            },
+            "region57": {
+              "type": "textarea",
+              "label": "p For smaller corporate events, baby showers or as an add"
+            },
+            "region58": {
+              "type": "text",
+              "label": "h4 Covered Deck"
+            },
+            "region59": {
+              "type": "text",
+              "label": "span (seating 80)"
+            },
+            "region60": {
+              "type": "textarea",
+              "label": "p A great space all year around, with shaded canopy & ret"
+            },
+            "region61": {
+              "type": "text",
+              "label": "h4 About"
+            },
+            "region62": {
+              "type": "text",
+              "label": "a href /templates/index.html#menu",
+              "format": "url"
+            },
+            "region63": {
+              "type": "text",
+              "label": "a Our menu"
+            },
+            "region64": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region65": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region66": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region67": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region68": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region69": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region70": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region71": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region72": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region73": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region74": {
+              "type": "text",
+              "label": "h4 Open Hours"
+            },
+            "region75": {
+              "type": "text",
+              "label": "dt Wednesday - Friday"
+            },
+            "region76": {
+              "type": "text",
+              "label": "dd 11:30am - 9pm"
+            },
+            "region77": {
+              "type": "text",
+              "label": "dt Saturday - Sunday"
+            },
+            "region78": {
+              "type": "text",
+              "label": "dd 9am - 9pm"
+            },
+            "region79": {
+              "type": "text",
+              "label": "dt Monday & Tuesday"
+            },
+            "region80": {
+              "type": "text",
+              "label": "dd Closed"
+            },
+            "region81": {
+              "type": "text",
+              "label": "h4 Find Us"
+            },
+            "region82": {
+              "type": "text",
+              "label": "a href https://www.facebook.com/StackedBurgerBarNZ",
+              "format": "url"
+            },
+            "region83": {
+              "type": "text",
+              "label": "a href https://www.instagram.com/stackedburgerbarnz",
+              "format": "url"
+            },
+            "region84": {
+              "type": "text",
+              "label": "p 119 Richardson Road"
+            },
+            "region85": {
+              "type": "text",
+              "label": "p Mount Albert, 1025,"
+            },
+            "region86": {
+              "type": "text",
+              "label": "p Auckland."
+            },
+            "region87": {
+              "type": "text",
+              "label": "span \u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar"
+            },
+            "region88": {
+              "type": "text",
+              "label": "span Made with care in Auckland"
+            }
+          }
+        }
+      },
+      "defaultProps": {
+        "values": {
+          "region0": "Hire Stacked Burger Bar for your next event, celebration, or gathering with flexible venue spaces and catering options.",
+          "region1": "Venue hire \u2014 Stacked Burger Bar",
+          "region2": "Host your next event with Stacked Burger Bar\u2019s flexible venue hire and catering options.",
+          "region3": "Venue hire \u2014 Stacked Burger Bar",
+          "region4": "/templates/index.html",
+          "region5": "STACKED",
+          "region6": "BURGER BAR",
+          "region7": "/templates/index.html",
+          "region8": "Home",
+          "region9": "/templates/our-story.html",
+          "region10": "Our story",
+          "region11": "/templates/initiatives-and-partners.html",
+          "region12": "Initiatives & partners",
+          "region13": "/templates/events.html",
+          "region14": "Events",
+          "region15": "/templates/venue-hire.html",
+          "region16": "Venue hire",
+          "region17": "/templates/contact-us.html",
+          "region18": "Contact us",
+          "region19": "/templates/index.html#order",
+          "region20": "Order now",
+          "region21": "/templates/index.html",
+          "region22": "Home",
+          "region23": "/templates/our-story.html",
+          "region24": "Our story",
+          "region25": "/templates/initiatives-and-partners.html",
+          "region26": "Initiatives & partners",
+          "region27": "/templates/events.html",
+          "region28": "Events",
+          "region29": "/templates/venue-hire.html",
+          "region30": "Venue hire",
+          "region31": "/templates/contact-us.html",
+          "region32": "Contact us",
+          "region33": "Venue hire",
+          "region34": "\n\t\t\t\t\t\tYour next event here\n\t\t\t\t\t",
+          "region35": "\n\t\t\t\t\t\tParties, Weddings, Funerals and more...\n\t\t\t\t\t",
+          "region36": "/public/images/insta-1.jpg",
+          "region37": "Stacked burger bar burger close-up",
+          "region38": "/public/images/insta-2.jpg",
+          "region39": "Stacked burger bar meal presentation",
+          "region40": "/public/images/insta-3.jpg",
+          "region41": "Fresh fries and burger platter",
+          "region42": "/public/images/venue-foodtruck.jpg",
+          "region43": "Food truck venue setup",
+          "region44": "/public/images/hero-burger.jpg",
+          "region45": "Stacked burger bar hero image",
+          "region46": "/public/images/insta-6.jpg",
+          "region47": "Smoky grilled burger",
+          "region48": "\n\t\t\t\t\tRooms Available\n\t\t\t\t",
+          "region49": "\n\t\t\t\t\t\t\t\t\tAuditorium ",
+          "region50": "(seating 135)",
+          "region51": "\n\t\t\t\t\t\t\t\t\tThe auditorium is an ideal space for corporate events, intimate weddings/funerals or charity event nights. This room has the ability to be closed off from the caf\u00e9 or open out onto the caf\u00e9 area.\n\t\t\t\t\t\t\t\t",
+          "region52": "\n\t\t\t\t\t\t\t\t\tHall ",
+          "region53": "(seating 50)",
+          "region54": "\n\t\t\t\t\t\t\t\t\tThis is a great room to celebrate birthdays, anniversaries or baby showers. With the ability to hire this room and the Deck for an overflow space it makes this a popular hire space.\n\t\t\t\t\t\t\t\t",
+          "region55": "\n\t\t\t\t\t\t\t\t\tCaf\u00e9 & Foyer\u00a0",
+          "region56": "(seating 20)",
+          "region57": "\n\t\t\t\t\t\t\t\t\tFor smaller corporate events, baby showers or as an addition to other areas, this is a great area for hire. Barista\u2019s available to hire to make coffees (or anything from our drinks menu) and/or serve food from our caf\u00e9.\n\t\t\t\t\t\t\t\t",
+          "region58": "\n\t\t\t\t\t\t\t\t\tCovered Deck ",
+          "region59": "(seating 80)",
+          "region60": "\n\t\t\t\t\t\t\t\t\tA great space all year around, with shaded canopy & retractable wind shields. With the ability to have the space open or closed to the elements it allows for your event to go ahead no matter the weather.\n\t\t\t\t\t\t\t\t",
+          "region61": "About",
+          "region62": "/templates/index.html#menu",
+          "region63": "Our menu",
+          "region64": "/templates/our-story.html",
+          "region65": "Our story",
+          "region66": "/templates/initiatives-and-partners.html",
+          "region67": "Initiatives & partners",
+          "region68": "/templates/events.html",
+          "region69": "Events",
+          "region70": "/templates/venue-hire.html",
+          "region71": "Venue hire",
+          "region72": "/templates/contact-us.html",
+          "region73": "Contact us",
+          "region74": "Open Hours",
+          "region75": "Wednesday - Friday",
+          "region76": "11:30am - 9pm",
+          "region77": "Saturday - Sunday",
+          "region78": "9am - 9pm",
+          "region79": "Monday & Tuesday",
+          "region80": "Closed",
+          "region81": "Find Us",
+          "region82": "https://www.facebook.com/StackedBurgerBarNZ",
+          "region83": "https://www.instagram.com/stackedburgerbarnz",
+          "region84": "119 Richardson Road",
+          "region85": "Mount Albert, 1025,",
+          "region86": "Auckland.",
+          "region87": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+          "region88": "Made with care in Auckland"
+        }
+      }
+    },
+    "TemplateContactUs": {
+      "label": "Contact us \u2014 Stacked Burger Bar",
+      "fields": {
+        "values": {
+          "type": "object",
+          "objectFields": {
+            "region0": {
+              "type": "text",
+              "label": "meta content Get in touch with Stacked Burger Bar for book"
+            },
+            "region1": {
+              "type": "text",
+              "label": "meta content Contact us \u2014 Stacked Burger Bar"
+            },
+            "region2": {
+              "type": "text",
+              "label": "meta content Contact Stacked Burger Bar for bookings, venu"
+            },
+            "region3": {
+              "type": "text",
+              "label": "title Contact us \u2014 Stacked Burger Bar"
+            },
+            "region4": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region5": {
+              "type": "text",
+              "label": "span STACKED"
+            },
+            "region6": {
+              "type": "text",
+              "label": "span BURGER BAR"
+            },
+            "region7": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region8": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region9": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region10": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region11": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region12": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region13": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region14": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region15": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region16": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region17": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region18": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region19": {
+              "type": "text",
+              "label": "a href /templates/index.html#order",
+              "format": "url"
+            },
+            "region20": {
+              "type": "text",
+              "label": "a Order now"
+            },
+            "region21": {
+              "type": "text",
+              "label": "a href /templates/index.html",
+              "format": "url"
+            },
+            "region22": {
+              "type": "text",
+              "label": "a Home"
+            },
+            "region23": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region24": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region25": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region26": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region27": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region28": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region29": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region30": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region31": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region32": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region33": {
+              "type": "text",
+              "label": "h1 Contact us"
+            },
+            "region34": {
+              "type": "text",
+              "label": "h2 Get in touch"
+            },
+            "region35": {
+              "type": "text",
+              "label": "p For orders, venue inquiries, or event bookings, reach o"
+            },
+            "region36": {
+              "type": "text",
+              "label": "h4 About"
+            },
+            "region37": {
+              "type": "text",
+              "label": "a href /templates/index.html#menu",
+              "format": "url"
+            },
+            "region38": {
+              "type": "text",
+              "label": "a Our menu"
+            },
+            "region39": {
+              "type": "text",
+              "label": "a href /templates/our-story.html",
+              "format": "url"
+            },
+            "region40": {
+              "type": "text",
+              "label": "a Our story"
+            },
+            "region41": {
+              "type": "text",
+              "label": "a href /templates/initiatives-and-partners.html",
+              "format": "url"
+            },
+            "region42": {
+              "type": "text",
+              "label": "a Initiatives & partners"
+            },
+            "region43": {
+              "type": "text",
+              "label": "a href /templates/events.html",
+              "format": "url"
+            },
+            "region44": {
+              "type": "text",
+              "label": "a Events"
+            },
+            "region45": {
+              "type": "text",
+              "label": "a href /templates/venue-hire.html",
+              "format": "url"
+            },
+            "region46": {
+              "type": "text",
+              "label": "a Venue hire"
+            },
+            "region47": {
+              "type": "text",
+              "label": "a href /templates/contact-us.html",
+              "format": "url"
+            },
+            "region48": {
+              "type": "text",
+              "label": "a Contact us"
+            },
+            "region49": {
+              "type": "text",
+              "label": "h4 Open Hours"
+            },
+            "region50": {
+              "type": "text",
+              "label": "dt Wednesday - Friday"
+            },
+            "region51": {
+              "type": "text",
+              "label": "dd 11:30am - 9pm"
+            },
+            "region52": {
+              "type": "text",
+              "label": "dt Saturday - Sunday"
+            },
+            "region53": {
+              "type": "text",
+              "label": "dd 9am - 9pm"
+            },
+            "region54": {
+              "type": "text",
+              "label": "dt Monday & Tuesday"
+            },
+            "region55": {
+              "type": "text",
+              "label": "dd Closed"
+            },
+            "region56": {
+              "type": "text",
+              "label": "h4 Find Us"
+            },
+            "region57": {
+              "type": "text",
+              "label": "a href https://www.facebook.com/StackedBurgerBarNZ",
+              "format": "url"
+            },
+            "region58": {
+              "type": "text",
+              "label": "a href https://www.instagram.com/stackedburgerbarnz",
+              "format": "url"
+            },
+            "region59": {
+              "type": "text",
+              "label": "p 119 Richardson Road"
+            },
+            "region60": {
+              "type": "text",
+              "label": "p Mount Albert, 1025,"
+            },
+            "region61": {
+              "type": "text",
+              "label": "p Auckland."
+            },
+            "region62": {
+              "type": "text",
+              "label": "span \u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar"
+            },
+            "region63": {
+              "type": "text",
+              "label": "span Made with care in Auckland"
+            }
+          }
+        }
+      },
+      "defaultProps": {
+        "values": {
+          "region0": "Get in touch with Stacked Burger Bar for bookings, venue enquiries, or general questions.",
+          "region1": "Contact us \u2014 Stacked Burger Bar",
+          "region2": "Contact Stacked Burger Bar for bookings, venue enquiries, and general questions.",
+          "region3": "Contact us \u2014 Stacked Burger Bar",
+          "region4": "/templates/index.html",
+          "region5": "STACKED",
+          "region6": "BURGER BAR",
+          "region7": "/templates/index.html",
+          "region8": "Home",
+          "region9": "/templates/our-story.html",
+          "region10": "Our story",
+          "region11": "/templates/initiatives-and-partners.html",
+          "region12": "Initiatives & partners",
+          "region13": "/templates/events.html",
+          "region14": "Events",
+          "region15": "/templates/venue-hire.html",
+          "region16": "Venue hire",
+          "region17": "/templates/contact-us.html",
+          "region18": "Contact us",
+          "region19": "/templates/index.html#order",
+          "region20": "Order now",
+          "region21": "/templates/index.html",
+          "region22": "Home",
+          "region23": "/templates/our-story.html",
+          "region24": "Our story",
+          "region25": "/templates/initiatives-and-partners.html",
+          "region26": "Initiatives & partners",
+          "region27": "/templates/events.html",
+          "region28": "Events",
+          "region29": "/templates/venue-hire.html",
+          "region30": "Venue hire",
+          "region31": "/templates/contact-us.html",
+          "region32": "Contact us",
+          "region33": "Contact us",
+          "region34": "Get in touch",
+          "region35": "For orders, venue inquiries, or event bookings, reach out and we\u2019ll help with the details.",
+          "region36": "About",
+          "region37": "/templates/index.html#menu",
+          "region38": "Our menu",
+          "region39": "/templates/our-story.html",
+          "region40": "Our story",
+          "region41": "/templates/initiatives-and-partners.html",
+          "region42": "Initiatives & partners",
+          "region43": "/templates/events.html",
+          "region44": "Events",
+          "region45": "/templates/venue-hire.html",
+          "region46": "Venue hire",
+          "region47": "/templates/contact-us.html",
+          "region48": "Contact us",
+          "region49": "Open Hours",
+          "region50": "Wednesday - Friday",
+          "region51": "11:30am - 9pm",
+          "region52": "Saturday - Sunday",
+          "region53": "9am - 9pm",
+          "region54": "Monday & Tuesday",
+          "region55": "Closed",
+          "region56": "Find Us",
+          "region57": "https://www.facebook.com/StackedBurgerBarNZ",
+          "region58": "https://www.instagram.com/stackedburgerbarnz",
+          "region59": "119 Richardson Road",
+          "region60": "Mount Albert, 1025,",
+          "region61": "Auckland.",
+          "region62": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+          "region63": "Made with care in Auckland"
+        }
+      }
+    }
+  },
+  "pages": [
+    {
+      "key": "home",
+      "path": "/",
+      "title": "Stacked Burger Bar \u2014 Mt Albert, Auckland",
+      "components": [
+        "TemplateHome"
+      ],
+      "defaultData": {
+        "root": {
+          "props": {}
+        },
+        "content": [
+          {
+            "type": "TemplateHome",
+            "props": {
+              "id": "stacked-home",
+              "values": {
+                "region0": "Stacked Burger Bar serves fresh burgers, gluten-friendly options, vegan dishes, and food truck events in Mt Albert, Auckland.",
+                "region1": "Stacked Burger Bar \u2014 Mt Albert, Auckland",
+                "region2": "Fresh burgers, local ingredients, and community-focused food truck events in Mt Albert.",
+                "region3": "Stacked Burger Bar \u2014 Mt Albert, Auckland",
+                "region4": "#top",
+                "region5": "STACKED",
+                "region6": "BURGER BAR",
+                "region7": "#top",
+                "region8": "Home",
+                "region9": "/templates/our-story.html",
+                "region10": "Our story",
+                "region11": "/templates/initiatives-and-partners.html",
+                "region12": "Initiatives & partners",
+                "region13": "/templates/events.html",
+                "region14": "Events",
+                "region15": "/templates/venue-hire.html",
+                "region16": "Venue hire",
+                "region17": "/templates/contact-us.html",
+                "region18": "Contact us",
+                "region19": "https://www.delivereasy.co.nz/stacked-burger-bar-auckland-delivery",
+                "region20": "Order now",
+                "region21": "#top",
+                "region22": "Home",
+                "region23": "/templates/our-story.html",
+                "region24": "Our story",
+                "region25": "/templates/initiatives-and-partners.html",
+                "region26": "Initiatives & partners",
+                "region27": "/templates/events.html",
+                "region28": "Events",
+                "region29": "/templates/venue-hire.html",
+                "region30": "Venue hire",
+                "region31": "/templates/contact-us.html",
+                "region32": "Contact us",
+                "region33": "STACKED",
+                "region34": "with goodness",
+                "region35": "/templates/contact-us.html",
+                "region36": "../public/svg/Stacked-pickup-trailer.svg",
+                "region37": "Pickup icon",
+                "region38": "PICKUP",
+                "region39": "https://www.delivereasy.co.nz/stacked-burger-bar-auckland-delivery",
+                "region40": "../public/svg/Stacked-delivery-scooter.svg",
+                "region41": "Delivery icon",
+                "region42": "DELIVERY",
+                "region43": "Something for everyone",
+                "region44": "Gluten, vegan & vegetarian friendly.",
+                "region45": "#order",
+                "region46": "Our menu",
+                "region47": "\n        Follow us\n      ",
+                "region48": "#Stackedburgerbarnz",
+                "region49": "../public/images/insta-1.jpg",
+                "region50": "Stacked burger bar burger close-up",
+                "region51": "../public/images/insta-2.jpg",
+                "region52": "Stacked burger bar meal presentation",
+                "region53": "../public/images/insta-3.jpg",
+                "region54": "Fresh fries and burger platter",
+                "region55": "../public/images/insta-4.jpg",
+                "region56": "Burger stack with toppings",
+                "region57": "../public/images/insta-5.jpg",
+                "region58": "Food truck burger service",
+                "region59": "../public/images/insta-6.jpg",
+                "region60": "Smoky grilled burger",
+                "region61": "About",
+                "region62": "#order",
+                "region63": "Our menu",
+                "region64": "/templates/our-story.html",
+                "region65": "Our story",
+                "region66": "/templates/initiatives-and-partners.html",
+                "region67": "Initiatives & partners",
+                "region68": "/templates/events.html",
+                "region69": "Events",
+                "region70": "/templates/venue-hire.html",
+                "region71": "Venue hire",
+                "region72": "/templates/contact-us.html",
+                "region73": "Contact us",
+                "region74": "Open Hours",
+                "region75": "Wednesday - Friday",
+                "region76": "11:30am - 9pm",
+                "region77": "Saturday - Sunday",
+                "region78": "9am - 9pm",
+                "region79": "Monday & Tuesday",
+                "region80": "Closed",
+                "region81": "Find Us",
+                "region82": "https://www.facebook.com/StackedBurgerBarNZ",
+                "region83": "https://www.instagram.com/stackedburgerbarnz",
+                "region84": "119 Richardson Road",
+                "region85": "Mount Albert, 1025,",
+                "region86": "Auckland.",
+                "region87": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+                "region88": "Made with care in Auckland"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "our-story",
+      "path": "/templates/our-story.html",
+      "title": "Our story \u2014 Stacked Burger Bar",
+      "components": [
+        "TemplateOurStory"
+      ],
+      "defaultData": {
+        "root": {
+          "props": {}
+        },
+        "content": [
+          {
+            "type": "TemplateOurStory",
+            "props": {
+              "id": "stacked-our-story",
+              "values": {
+                "region0": "Learn about the story behind Stacked Burger Bar, our values, and our commitment to inclusive food and local suppliers.",
+                "region1": "Our story \u2014 Stacked Burger Bar",
+                "region2": "Discover the story behind Stacked Burger Bar and the values that shape the menu and experience.",
+                "region3": "Our story \u2014 Stacked Burger Bar",
+                "region4": "/templates/index.html",
+                "region5": "STACKED",
+                "region6": "BURGER BAR",
+                "region7": "/templates/index.html",
+                "region8": "Home",
+                "region9": "/templates/our-story.html",
+                "region10": "Our story",
+                "region11": "/templates/initiatives-and-partners.html",
+                "region12": "Initiatives & partners",
+                "region13": "/templates/events.html",
+                "region14": "Events",
+                "region15": "/templates/venue-hire.html",
+                "region16": "Venue hire",
+                "region17": "/templates/contact-us.html",
+                "region18": "Contact us",
+                "region19": "/templates/index.html#order",
+                "region20": "Order now",
+                "region21": "/templates/index.html",
+                "region22": "Home",
+                "region23": "/templates/our-story.html",
+                "region24": "Our story",
+                "region25": "/templates/initiatives-and-partners.html",
+                "region26": "Initiatives & partners",
+                "region27": "/templates/events.html",
+                "region28": "Events",
+                "region29": "/templates/venue-hire.html",
+                "region30": "Venue hire",
+                "region31": "/templates/contact-us.html",
+                "region32": "Contact us",
+                "region33": "Our story",
+                "region34": "../public/images/Mel%20%26%20Joel%202.JPG",
+                "region35": "Mel and Joel",
+                "region36": "Mel and Joel",
+                "region37": "About",
+                "region38": "/templates/index.html#menu",
+                "region39": "Our menu",
+                "region40": "/templates/our-story.html",
+                "region41": "Our story",
+                "region42": "/templates/initiatives-and-partners.html",
+                "region43": "Initiatives & partners",
+                "region44": "/templates/events.html",
+                "region45": "Events",
+                "region46": "/templates/venue-hire.html",
+                "region47": "Venue hire",
+                "region48": "/templates/contact-us.html",
+                "region49": "Contact us",
+                "region50": "Open Hours",
+                "region51": "Wednesday - Friday",
+                "region52": "11:30am - 9pm",
+                "region53": "Saturday - Sunday",
+                "region54": "9am - 9pm",
+                "region55": "Monday & Tuesday",
+                "region56": "Closed",
+                "region57": "Find Us",
+                "region58": "https://www.facebook.com/StackedBurgerBarNZ",
+                "region59": "https://www.instagram.com/stackedburgerbarnz",
+                "region60": "119 Richardson Road",
+                "region61": "Mount Albert, 1025,",
+                "region62": "Auckland.",
+                "region63": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+                "region64": "Made with care in Auckland"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "initiatives-and-partners",
+      "path": "/templates/initiatives-and-partners.html",
+      "title": "Initiatives and partners \u2014 Stacked Burger Bar",
+      "components": [
+        "TemplateInitiativesAndPartners"
+      ],
+      "defaultData": {
+        "root": {
+          "props": {}
+        },
+        "content": [
+          {
+            "type": "TemplateInitiativesAndPartners",
+            "props": {
+              "id": "stacked-initiatives-and-partners",
+              "values": {
+                "region0": "Explore Stacked Burger Bar\u2019s local partnerships, sustainability initiatives, and community-focused food values.",
+                "region1": "Initiatives & partners \u2014 Stacked Burger Bar",
+                "region2": "Learn about the local partnerships and sustainability work behind Stacked Burger Bar.",
+                "region3": "Initiatives and partners \u2014 Stacked Burger Bar",
+                "region4": "/templates/index.html",
+                "region5": "STACKED",
+                "region6": "BURGER BAR",
+                "region7": "/templates/index.html",
+                "region8": "Home",
+                "region9": "/templates/our-story.html",
+                "region10": "Our story",
+                "region11": "/templates/initiatives-and-partners.html",
+                "region12": "Initiatives & partners",
+                "region13": "/templates/events.html",
+                "region14": "Events",
+                "region15": "/templates/venue-hire.html",
+                "region16": "Venue hire",
+                "region17": "/templates/contact-us.html",
+                "region18": "Contact us",
+                "region19": "/templates/index.html#order",
+                "region20": "Order now",
+                "region21": "/templates/index.html",
+                "region22": "Home",
+                "region23": "/templates/our-story.html",
+                "region24": "Our story",
+                "region25": "/templates/initiatives-and-partners.html",
+                "region26": "Initiatives & partners",
+                "region27": "/templates/events.html",
+                "region28": "Events",
+                "region29": "/templates/venue-hire.html",
+                "region30": "Venue hire",
+                "region31": "/templates/contact-us.html",
+                "region32": "Contact us",
+                "region33": "Initiatives & partners",
+                "region34": "\n\t\t\t\t\t\tNew Zealand / Buying Local\n\t\t\t\t\t",
+                "region35": "\n\t\t\t\t\tWherever we can we strive to ensure everything we buy comes from New Zealand. It is so important to us that when you buy from us, you\u2019re not only supporting the local Burger Bar, but you are supporting local growers and other businesses. This knock-on effect we believe will help NZ\u2019s economy and help get as many kiwis employed as possible.",
+                "region36": "We believe in NZ product so much we don\u2019t do anything to change it, meaning when you eat our chicken you can know that it is 100% free range chicken tenderloins dipped in our batter. Our meat patties are 100% beef with a pinch of salt because, let\u2019s be honest, NZ product is amazing just the way it is.\u00a0\n\t\t\t\t",
+                "region37": "#",
+                "region38": "Gluten friendly",
+                "region39": "#",
+                "region40": "Vegan & vegetarian",
+                "region41": "#",
+                "region42": "Halal",
+                "region43": "#",
+                "region44": "Karma Drinks",
+                "region45": "#",
+                "region46": "Kokako Coffee",
+                "region47": "#",
+                "region48": "Composting & Recycling",
+                "region49": "#",
+                "region50": "Deliver Easy",
+                "region51": "\n\t\t\t\t\tGluten / vegan & vegetarian friendly\n\t\t\t\t",
+                "region52": "\n\t\t\t\t\tWe believe that when you choose to eat out, everyone should have a variety of options available to choose from.\n\t\t\t\t",
+                "region53": "\n\t\t\t\t\tGluten friendly\n\t\t\t\t",
+                "region54": "\n\t\t\t\t\tOur best mate is coeliac, and we always saw how much of a struggle it was for her to find something on the menu she could eat, and how careful she had to be. It didn\u2019t sit right with us, and on top of that, trying to find a good burger place that can easily cater to gluten intolerance is not easy.",
+                "region55": "We have ensured all of our products except the buns are gluten free, or have no added gluten. And we have sourced an amazing gluten free (and vegan!) bun for those who cannot consume gluten (or are looking for a vegan option). When these allergies come up in our food truck, we ensure we change gloves, and even toast your GF bun separately, before making your order. Please note these gluten free buns are all individually wrapped, grilled in a gluten free oven and put into a box to ensure its not touching gluten crumbs or mixing with our glutenous buns.",
+                "region56": "\u00a0We add nothing but salt to our meat patties, our batters are made from rice flour, all sauces are gluten free or have no added gluten and we\u2019ve checked every product right down to our pickles (which aren\u2019t always GF due to the type of vinegar used) to make sure you don\u2019t have to worry about eating at Stacked. Please talk to our friendly cashier team if you fall under this category.\n\t\t\t\t",
+                "region57": "\n\t\t\t\t\tVegan & vegetarian friendly\n\t\t\t\t",
+                "region58": "\n\t\t\t\t\tIt has been getting a lot easier to find meals that are vegan these days, but we always thought that burger bars did not really excel in this area. We decided to make burgers that we believe hit the nail on the head.",
+                "region59": "The sauces we use have been specifically chosen to be vegan friendly, as well as our batters, cheese and buns, meaning you can enjoy our food with peace of mind knowing you are getting what you ask for.\u00a0",
+                "region60": "On top of this we believe in being able to have drinks that are vegan friendly. We have vegan options in our bottled, frappe and smoothie range, and even our hot chocolate is vegan certified! So you can enjoy a hot chocolate, mocha or even try our new mint flavoured hot chocolate resting assured it\u2019s vegan. Milk: We offer soya, almond and oat options to be used instead of our Jersey Girls A2 milk. Please ask what options are vegan when you are next in store!\u00a0\n\t\t\t\t",
+                "region61": "\n\t\t\t\t\tHalal\n\t\t\t\t",
+                "region62": "\n\t\t\t\t\tOur meat is sourced from a local certified halal supplier. We do have pork, however this is cooked in a separate frying pan.\n\t\t\t\t",
+                "region63": "\n\t\t\t\t\tKarma Drinks\n\t\t\t\t",
+                "region64": "\n\t\t\t\t\tWhen we searched for bottled product to sell, we knew we found a company to back when we came across Karma Drinks. They stand for everything we believe in. They believe their drinks should not only taste good, but be good to the planet, the people who grow their ingredients and you!",
+                "region65": "To hold them to account to their mission to be the world\u2019s most ethical soft drink they established the Karma Foundation. 1% of revenue from every Karma Drink goes to their Cola nut growers and their communities in Sierra Leone.",
+                "region66": "Not only this, Karma want the best for the environment by standing against plastic, something we strongly believe in. They also believe in organic, ensuring less toxins and other nasties can end up in your drink. Every sip you take you can sip assured you are drinking quality.",
+                "region67": "Learn more about the ",
+                "region68": "https://shop.karmacola.co.nz/pages/the-karma-foundation",
+                "region69": "Karma Foundation",
+                "region70": "\n\t\t\t\t\tKokako Coffee\n\t\t\t\t",
+                "region71": "\n\t\t\t\t\tWe source our coffee from our local roaster up in Mt Eden. We love what they stand for and have partnered with them for several reasons:\u00a0",
+                "region72": " These are compostable which is so important to us. Most coffee cups that say biodegradable or recycling don\u2019t actually make their way to any sort of recycling facility, instead ending up in the landfill. Because these are compostable, we are able to commercially compost them through Green Gorilla to ensure we give back positively to the environment.\n\t\t\t\t\t\t",
+                "region73": " Kokako\u2019s Mahana coffee is Fair Trade & Biogro Organic certified, and has a full bodied chocolatey flavour. The coffee beans are sourced from Fairtrade Organic cooperatives in Ethiopia, Sumatra & the Democratic Republic of Congo. Honestly, we haven\u2019t tasted better coffee than this!\n\t\t\t\t\t\t",
+                "region74": "\n\t\t\t\t\tBon Accord\n\t\t\t\t",
+                "region75": "\n\t\t\t\t\tWe have partnered with Bon Accord to bring you our beautiful Frappes, Real Fruit Pulp smoothies, Iced Tea and other hot beverages.\u00a0",
+                "region76": "We are proud to be partnered with Bon Accord. One of our favourite things we stock is their Bon Accord Fairtrade Vegan Beglian Style Hot Chocolate. This is designed for any hot chocolate lover and is hands down what we believe to be the best hot chocolate out there on the market. It delivers a rich, dark hot chocolate experience, and you can enjoy with peace of mind knowing it\u2019s benefiting families at the origin. \u00a0\n\t\t\t\t",
+                "region77": "\n\t\t\t\t\tGreen Gorilla Composting and Recycling Program\n\t\t\t\t",
+                "region78": "\n\t\t\t\t\t\t\tIt was important to us to be as environmentally friendly as we possibly could.",
+                "region79": "Our food packaging is all recyclable and/or biodegradable/compostable, and to help us make sure our product ends up in a better place we have partnered with Green Gorilla. \u00a0",
+                "region80": "\n\t\t\t\t\tGreen Gorilla\n\t\t\t\t",
+                "region81": "\n\t\t\t\t\t\t\tAre the only comprehensive Waste Processing Facility in New Zealand\n\t\t\t\t\t\t",
+                "region82": "\n\t\t\t\t\t\t\tDiverts over 75,000 tonnes of waste per annum away from Auckland's landfills\n\t\t\t\t\t\t",
+                "region83": "\n\t\t\t\t\tRecycling Program\n\t\t\t\t",
+                "region84": "\n\t\t\t\t\t\t\tWe choose specifically to only have glass bottled products, which we recycle through Green Gorilla along with the rest of our recycling.\n\t\t\t\t\t\t",
+                "region85": "\n\t\t\t\t\tCompostable Program\n\t\t\t\t",
+                "region86": "\n\t\t\t\t\t\t\tAll of our packaging from boxes, bags, wraps, coffee grounds and coffee cups to straws and stickers is compostable. (The only thing we\u2019ve found isn\u2019t compostable is our receipt paper! We are currently looking into alternatives.)\n\t\t\t\t\t\t",
+                "region87": "\n\t\t\t\t\t\t\tOnsite we ensure all food waste/scraps and your burger packaging (should you eat your meal onsite) is sent to Green Gorilla who ensure it is commercially composted, helping reduce methane gas and diverting rubbish from the landfill.\n\t\t\t\t\t\t",
+                "region88": "\n\t\t\t\t\tDeliver Easy\n\t\t\t\t",
+                "region89": "\n\t\t\t\t\tDeliver Easy is a New Zealand owned delivery company that came into Auckland in August 2020. We have joined forces because we love how they treat their drivers! They ensure their drivers get (at minimum) the living wage. They\u2019re a New Zealand owned and operated business, so when you order a Stacked Burger Bar delivery through them, you\u2019re helping support our NZ economy \u2013 it\u2019s a no brainer!\u00a0\n\t\t\t\t",
+                "region90": "https://www.delivereasy.co.nz/stacked-burger-bar-auckland-delivery ",
+                "region91": "Order Your Delivery",
+                "region92": "About",
+                "region93": "/templates/index.html#menu",
+                "region94": "Our menu",
+                "region95": "/templates/our-story.html",
+                "region96": "Our story",
+                "region97": "/templates/initiatives-and-partners.html",
+                "region98": "Initiatives & partners",
+                "region99": "/templates/events.html",
+                "region100": "Events",
+                "region101": "/templates/venue-hire.html",
+                "region102": "Venue hire",
+                "region103": "/templates/contact-us.html",
+                "region104": "Contact us",
+                "region105": "Open Hours",
+                "region106": "Wednesday - Friday",
+                "region107": "11:30am - 9pm",
+                "region108": "Saturday - Sunday",
+                "region109": "9am - 9pm",
+                "region110": "Monday & Tuesday",
+                "region111": "Closed",
+                "region112": "Find Us",
+                "region113": "https://www.facebook.com/StackedBurgerBarNZ",
+                "region114": "https://www.instagram.com/stackedburgerbarnz",
+                "region115": "119 Richardson Road",
+                "region116": "Mount Albert, 1025,",
+                "region117": "Auckland.",
+                "region118": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+                "region119": "Made with care in Auckland"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "events",
+      "path": "/templates/events.html",
+      "title": "Events \u2014 Stacked Burger Bar",
+      "components": [
+        "TemplateEvents"
+      ],
+      "defaultData": {
+        "root": {
+          "props": {}
+        },
+        "content": [
+          {
+            "type": "TemplateEvents",
+            "props": {
+              "id": "stacked-events",
+              "values": {
+                "region0": "Find out about upcoming Stacked Burger Bar events and special pop-ups in and around Auckland.",
+                "region1": "Events \u2014 Stacked Burger Bar",
+                "region2": "See where Stacked Burger Bar is heading next and catch us at local events.",
+                "region3": "Events \u2014 Stacked Burger Bar",
+                "region4": "/templates/index.html",
+                "region5": "STACKED",
+                "region6": "BURGER BAR",
+                "region7": "/templates/index.html",
+                "region8": "Home",
+                "region9": "/templates/our-story.html",
+                "region10": "Our story",
+                "region11": "/templates/initiatives-and-partners.html",
+                "region12": "Initiatives & partners",
+                "region13": "/templates/events.html",
+                "region14": "Events",
+                "region15": "/templates/venue-hire.html",
+                "region16": "Venue hire",
+                "region17": "/templates/contact-us.html",
+                "region18": "Contact us",
+                "region19": "/templates/index.html#order",
+                "region20": "Order now",
+                "region21": "/templates/index.html",
+                "region22": "Home",
+                "region23": "/templates/our-story.html",
+                "region24": "Our story",
+                "region25": "/templates/initiatives-and-partners.html",
+                "region26": "Initiatives & partners",
+                "region27": "/templates/events.html",
+                "region28": "Events",
+                "region29": "/templates/venue-hire.html",
+                "region30": "Venue hire",
+                "region31": "/templates/contact-us.html",
+                "region32": "Contact us",
+                "region33": "Events",
+                "region34": "Something delicious is heading your way",
+                "region35": "We\u2019re putting the final touches on our next pop-up and special event schedule. Watch this space for fresh drops, surprise guests, and a few extra burger thrills.",
+                "region36": "About",
+                "region37": "/templates/index.html#menu",
+                "region38": "Our menu",
+                "region39": "/templates/our-story.html",
+                "region40": "Our story",
+                "region41": "/templates/initiatives-and-partners.html",
+                "region42": "Initiatives & partners",
+                "region43": "/templates/events.html",
+                "region44": "Events",
+                "region45": "/templates/venue-hire.html",
+                "region46": "Venue hire",
+                "region47": "/templates/contact-us.html",
+                "region48": "Contact us",
+                "region49": "Open Hours",
+                "region50": "Wednesday - Friday",
+                "region51": "11:30am - 9pm",
+                "region52": "Saturday - Sunday",
+                "region53": "9am - 9pm",
+                "region54": "Monday & Tuesday",
+                "region55": "Closed",
+                "region56": "Find Us",
+                "region57": "https://www.facebook.com/StackedBurgerBarNZ",
+                "region58": "https://www.instagram.com/stackedburgerbarnz",
+                "region59": "119 Richardson Road",
+                "region60": "Mount Albert, 1025,",
+                "region61": "Auckland.",
+                "region62": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+                "region63": "Made with care in Auckland"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "venue-hire",
+      "path": "/templates/venue-hire.html",
+      "title": "Venue hire \u2014 Stacked Burger Bar",
+      "components": [
+        "TemplateVenueHire"
+      ],
+      "defaultData": {
+        "root": {
+          "props": {}
+        },
+        "content": [
+          {
+            "type": "TemplateVenueHire",
+            "props": {
+              "id": "stacked-venue-hire",
+              "values": {
+                "region0": "Hire Stacked Burger Bar for your next event, celebration, or gathering with flexible venue spaces and catering options.",
+                "region1": "Venue hire \u2014 Stacked Burger Bar",
+                "region2": "Host your next event with Stacked Burger Bar\u2019s flexible venue hire and catering options.",
+                "region3": "Venue hire \u2014 Stacked Burger Bar",
+                "region4": "/templates/index.html",
+                "region5": "STACKED",
+                "region6": "BURGER BAR",
+                "region7": "/templates/index.html",
+                "region8": "Home",
+                "region9": "/templates/our-story.html",
+                "region10": "Our story",
+                "region11": "/templates/initiatives-and-partners.html",
+                "region12": "Initiatives & partners",
+                "region13": "/templates/events.html",
+                "region14": "Events",
+                "region15": "/templates/venue-hire.html",
+                "region16": "Venue hire",
+                "region17": "/templates/contact-us.html",
+                "region18": "Contact us",
+                "region19": "/templates/index.html#order",
+                "region20": "Order now",
+                "region21": "/templates/index.html",
+                "region22": "Home",
+                "region23": "/templates/our-story.html",
+                "region24": "Our story",
+                "region25": "/templates/initiatives-and-partners.html",
+                "region26": "Initiatives & partners",
+                "region27": "/templates/events.html",
+                "region28": "Events",
+                "region29": "/templates/venue-hire.html",
+                "region30": "Venue hire",
+                "region31": "/templates/contact-us.html",
+                "region32": "Contact us",
+                "region33": "Venue hire",
+                "region34": "\n\t\t\t\t\t\tYour next event here\n\t\t\t\t\t",
+                "region35": "\n\t\t\t\t\t\tParties, Weddings, Funerals and more...\n\t\t\t\t\t",
+                "region36": "/public/images/insta-1.jpg",
+                "region37": "Stacked burger bar burger close-up",
+                "region38": "/public/images/insta-2.jpg",
+                "region39": "Stacked burger bar meal presentation",
+                "region40": "/public/images/insta-3.jpg",
+                "region41": "Fresh fries and burger platter",
+                "region42": "/public/images/venue-foodtruck.jpg",
+                "region43": "Food truck venue setup",
+                "region44": "/public/images/hero-burger.jpg",
+                "region45": "Stacked burger bar hero image",
+                "region46": "/public/images/insta-6.jpg",
+                "region47": "Smoky grilled burger",
+                "region48": "\n\t\t\t\t\tRooms Available\n\t\t\t\t",
+                "region49": "\n\t\t\t\t\t\t\t\t\tAuditorium ",
+                "region50": "(seating 135)",
+                "region51": "\n\t\t\t\t\t\t\t\t\tThe auditorium is an ideal space for corporate events, intimate weddings/funerals or charity event nights. This room has the ability to be closed off from the caf\u00e9 or open out onto the caf\u00e9 area.\n\t\t\t\t\t\t\t\t",
+                "region52": "\n\t\t\t\t\t\t\t\t\tHall ",
+                "region53": "(seating 50)",
+                "region54": "\n\t\t\t\t\t\t\t\t\tThis is a great room to celebrate birthdays, anniversaries or baby showers. With the ability to hire this room and the Deck for an overflow space it makes this a popular hire space.\n\t\t\t\t\t\t\t\t",
+                "region55": "\n\t\t\t\t\t\t\t\t\tCaf\u00e9 & Foyer\u00a0",
+                "region56": "(seating 20)",
+                "region57": "\n\t\t\t\t\t\t\t\t\tFor smaller corporate events, baby showers or as an addition to other areas, this is a great area for hire. Barista\u2019s available to hire to make coffees (or anything from our drinks menu) and/or serve food from our caf\u00e9.\n\t\t\t\t\t\t\t\t",
+                "region58": "\n\t\t\t\t\t\t\t\t\tCovered Deck ",
+                "region59": "(seating 80)",
+                "region60": "\n\t\t\t\t\t\t\t\t\tA great space all year around, with shaded canopy & retractable wind shields. With the ability to have the space open or closed to the elements it allows for your event to go ahead no matter the weather.\n\t\t\t\t\t\t\t\t",
+                "region61": "About",
+                "region62": "/templates/index.html#menu",
+                "region63": "Our menu",
+                "region64": "/templates/our-story.html",
+                "region65": "Our story",
+                "region66": "/templates/initiatives-and-partners.html",
+                "region67": "Initiatives & partners",
+                "region68": "/templates/events.html",
+                "region69": "Events",
+                "region70": "/templates/venue-hire.html",
+                "region71": "Venue hire",
+                "region72": "/templates/contact-us.html",
+                "region73": "Contact us",
+                "region74": "Open Hours",
+                "region75": "Wednesday - Friday",
+                "region76": "11:30am - 9pm",
+                "region77": "Saturday - Sunday",
+                "region78": "9am - 9pm",
+                "region79": "Monday & Tuesday",
+                "region80": "Closed",
+                "region81": "Find Us",
+                "region82": "https://www.facebook.com/StackedBurgerBarNZ",
+                "region83": "https://www.instagram.com/stackedburgerbarnz",
+                "region84": "119 Richardson Road",
+                "region85": "Mount Albert, 1025,",
+                "region86": "Auckland.",
+                "region87": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+                "region88": "Made with care in Auckland"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "key": "contact-us",
+      "path": "/templates/contact-us.html",
+      "title": "Contact us \u2014 Stacked Burger Bar",
+      "components": [
+        "TemplateContactUs"
+      ],
+      "defaultData": {
+        "root": {
+          "props": {}
+        },
+        "content": [
+          {
+            "type": "TemplateContactUs",
+            "props": {
+              "id": "stacked-contact-us",
+              "values": {
+                "region0": "Get in touch with Stacked Burger Bar for bookings, venue enquiries, or general questions.",
+                "region1": "Contact us \u2014 Stacked Burger Bar",
+                "region2": "Contact Stacked Burger Bar for bookings, venue enquiries, and general questions.",
+                "region3": "Contact us \u2014 Stacked Burger Bar",
+                "region4": "/templates/index.html",
+                "region5": "STACKED",
+                "region6": "BURGER BAR",
+                "region7": "/templates/index.html",
+                "region8": "Home",
+                "region9": "/templates/our-story.html",
+                "region10": "Our story",
+                "region11": "/templates/initiatives-and-partners.html",
+                "region12": "Initiatives & partners",
+                "region13": "/templates/events.html",
+                "region14": "Events",
+                "region15": "/templates/venue-hire.html",
+                "region16": "Venue hire",
+                "region17": "/templates/contact-us.html",
+                "region18": "Contact us",
+                "region19": "/templates/index.html#order",
+                "region20": "Order now",
+                "region21": "/templates/index.html",
+                "region22": "Home",
+                "region23": "/templates/our-story.html",
+                "region24": "Our story",
+                "region25": "/templates/initiatives-and-partners.html",
+                "region26": "Initiatives & partners",
+                "region27": "/templates/events.html",
+                "region28": "Events",
+                "region29": "/templates/venue-hire.html",
+                "region30": "Venue hire",
+                "region31": "/templates/contact-us.html",
+                "region32": "Contact us",
+                "region33": "Contact us",
+                "region34": "Get in touch",
+                "region35": "For orders, venue inquiries, or event bookings, reach out and we\u2019ll help with the details.",
+                "region36": "About",
+                "region37": "/templates/index.html#menu",
+                "region38": "Our menu",
+                "region39": "/templates/our-story.html",
+                "region40": "Our story",
+                "region41": "/templates/initiatives-and-partners.html",
+                "region42": "Initiatives & partners",
+                "region43": "/templates/events.html",
+                "region44": "Events",
+                "region45": "/templates/venue-hire.html",
+                "region46": "Venue hire",
+                "region47": "/templates/contact-us.html",
+                "region48": "Contact us",
+                "region49": "Open Hours",
+                "region50": "Wednesday - Friday",
+                "region51": "11:30am - 9pm",
+                "region52": "Saturday - Sunday",
+                "region53": "9am - 9pm",
+                "region54": "Monday & Tuesday",
+                "region55": "Closed",
+                "region56": "Find Us",
+                "region57": "https://www.facebook.com/StackedBurgerBarNZ",
+                "region58": "https://www.instagram.com/stackedburgerbarnz",
+                "region59": "119 Richardson Road",
+                "region60": "Mount Albert, 1025,",
+                "region61": "Auckland.",
+                "region62": "\u00a9 Copyright 2021 \u2013 2026 Stacked Burger Bar",
+                "region63": "Made with care in Auckland"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

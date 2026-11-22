@@ -1,0 +1,9 @@
+{
+  "name": "@rua-labs/stacked-website",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "./templates": "./templates.json",
+    "./manifest": "./manifest.json"
+  }
+}
