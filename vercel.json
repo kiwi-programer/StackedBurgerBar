@@ -2,16 +2,47 @@
   "version": 2,
   "name": "stacked-burger-bar",
   "builds": [
-    { "src": "templates/**", "use": "@vercel/static" },
-    { "src": "styles/**", "use": "@vercel/static" },
-    { "src": "public/**", "use": "@vercel/static" },
-    { "src": "content/**", "use": "@vercel/static" }
+    {
+      "src": "templates/**",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "styles/**",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "public/**",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "content/**",
+      "use": "@vercel/static"
+    }
   ],
   "routes": [
-    { "src": "/", "dest": "/templates/index.html" },
-    { "src": "/templates/(.*)", "dest": "/templates/$1" },
-    { "src": "/styles/(.*)", "dest": "/styles/$1" },
-    { "src": "/public/(.*)", "dest": "/public/$1" },
-    { "src": "/content/(.*)", "dest": "/content/$1" }
+    {
+      "src": "/rua-registry.json",
+      "dest": "/public/rua-registry.json"
+    },
+    {
+      "src": "/",
+      "dest": "/templates/index.html"
+    },
+    {
+      "src": "/templates/(.*)",
+      "dest": "/templates/$1"
+    },
+    {
+      "src": "/styles/(.*)",
+      "dest": "/styles/$1"
+    },
+    {
+      "src": "/public/(.*)",
+      "dest": "/public/$1"
+    },
+    {
+      "src": "/content/(.*)",
+      "dest": "/content/$1"
+    }
   ]
 }
